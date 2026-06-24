@@ -1,55 +1,247 @@
-Daily Update 
+Daily Update
 
-20 June 2026 
-✅ Installed and connected to SQL Server Express
-✅ Created the database
-✅ Designed the project architecture
-✅ Created the staging tables
-✅ Reviewed the source data structure
-✅ Decided on the ETL approach (Python → SQL Server)
+20 June 2026
+
+✅ Installed and connected SQL Server Express 
+✅ Created ECommerceSalesAnalyticsBI database 
+✅ Designed overall project architecture 
+✅ Created staging tables 
+	- stg_orders 
+	- stg_customers 
+	- stg_products 
+	- stg_carriers 
+✅ Reviewed source CSV structure 
+✅ Decided ETL approach (CSV → Python → SQL Server)
 
 21 June 2026
-✅Installed Python 3.14.6
-✅Installed pip install pandas sqlalchemy pyodbc
-	These are the main libraries we'll need:
-	pandas → read CSV files
-	sqlalchemy → connect to SQL Server
-	pyodbc → SQL Server driver
 
-✅ SQL Server connected
-✅ Database created
-✅ Staging tables created
-✅ Python installed
-✅ ODBC Driver working
-✅ .env configured
-✅ test_connection.py successful
+✅ Installed Python 3.14.6 
+✅ Installed required packages: 
+	- pandas 
+	- sqlalchemy 
+	- pyodbc 
+	- python
+	-dotenv
 
-made dim table and fact table and etl log
-made 3 dim sp and 1 fact sp, and bind then in sp_refresh_warehouse and this refresh sp will be used in python etl scritp
- 
+✅ ODBC Driver 18 configured 
+✅ SQL Server connectivity validated 
+✅ Created .env 
+✅ Created test_connection.py 
+✅ Successful SQL Server connection test
+✅ Created Star Schema tables 
+	Fact Table: 
+		- fact_sales
+
+	Dimension Tables: 
+		- dim_customers 
+		- dim_products 
+		- dim_carriers
+
+✅ Created ETL Log table (etl_log)
+
+✅ Created Stored Procedures: 
+	- sp_refresh_dim_customers 
+	- sp_refresh_dim_products 
+	- sp_refresh_dim_carriers 
+	- sp_refresh_fact_sales
+
+✅ Created master refresh procedure: 
+	- sp_refresh_warehouse
 
 22 June 2026
-✅made 4 views table that will be conneting to powerbi and made date dim table 
-✅made etl_file_tracking in sssms
-✅made refresh_warehous.py file 
-✅made logger.py
-✅file_tracker.py
-✅made requirement file
-✅made .env file, readme.md and .gitgnore file
 
+✅ Built Python ETL framework
+
+Created: - config.py - db_connection.py - load_orders.py -
+load_customers.py - load_products.py - load_carriers.py - run_etl.py -
+refresh_warehouse.py - logger.py - file_tracker.py
+
+✅ Loaded data into staging tables: - 1,000,000 Orders - 50,000
+Customers - 1,000 Products - 4 Carriers
+
+✅ Implemented incremental load strategy using file change detection
+✅ Created Date Dimension (dim_date)
+
+✅ Built Reporting Views: - vw_sales_detail - vw_daily_sales -
+vw_monthly_sales - vw_top_products
+
+✅ Created File Tracking Table (etl_file_tracking) ✅ Implemented File
+Change Detection Logic ✅ Implemented ETL Logging Logic ✅ Created: -
+README.md - requirements.txt - .gitignore
+
+✅ Added warehouse auto-refresh after file changes ✅ Tested end-to-end
+ETL workflow
 
 23 June 2026
 
-✅Virtualization Enabled
-✅ WSL2 Installed
-✅ Ubuntu Installed
-✅ Docker Desktop Installed
-✅ Docker Compose Available
-Docker Desktop Running ✅
-Docker Engine Running ✅
-WSL2 Working ✅
+Docker & Linux Environment
 
+✅ Enabled CPU Virtualization ✅ Installed WSL2 ✅ Installed Ubuntu ✅
+Updated Ubuntu packages ✅ Installed Docker Desktop ✅ Installed Docker
+Compose ✅ Verified Docker Engine (docker ps successful)
 
+Apache Airflow
+
+✅ Downloaded official Airflow Docker deployment ✅ Initialized Airflow
+database ✅ Started Airflow services ✅ Accessed Airflow UI ✅ Logged
+into Airflow ✅ Created first DAG (ecommerce_etl_pipeline) ✅
+Successfully triggered DAG ✅ DAG execution successful
+
+Current Project Status
+
+Data Engineering ✅ Python ETL ✅ File Tracking ✅ ETL Logging ✅ Data
+Warehouse ✅ Star Schema ✅ Stored Procedures ✅ SQL Views
+
+DevOps / Orchestration ✅ WSL2 ✅ Docker ✅ Apache Airflow
+✅ Understood DAG architecture and task orchestration workflow
+✅ Configured Airflow scheduling environment
+
+24 June 2026
+Git & Version Control
+
+✅ Installed Git
+
+✅ Configured Git user profile
+
+✅ Initialized local Git repository
+
+✅ Connected local repository to GitHub
+
+✅ Created GitHub repository
+
+✅ Pushed complete project structure to GitHub
+
+✅ Configured .gitignore
+
+✅ Removed unnecessary files from Git tracking
+
+✅ Created project backup strategy using GitHub
+
+Airflow & Docker Integration
+
+✅ Mounted Python project folder into Airflow containers
+
+✅ Mounted source CSV data into Airflow containers
+
+✅ Verified Docker volume mappings
+
+✅ Successfully restarted Airflow environment
+
+✅ Verified all Airflow containers healthy
+
+✅ Confirmed DAG visibility in Airflow UI
+
+✅ Confirmed DAG execution through Airflow Scheduler
+✅ Mounted ETL source code into Airflow containers
+✅ Mounted project datasets into Airflow containers
+✅ Verified container access to project resources
+
+ETL Integration Testing
+
+✅ Connected Airflow environment with ETL project files
+
+✅ Tested execution of run_etl.py inside Airflow Worker
+
+✅ Fixed Windows/Linux file path compatibility issues
+
+  Changed:
+
+DATA_PATH + "\\fact_orders.csv"
+
+to:
+
+os.path.join(DATA_PATH, "fact_orders.csv")
+
+✅ Updated all loader scripts
+
+load_orders.py
+load_customers.py
+load_products.py
+load_carriers.py
+Environment Configuration
+
+✅ Configured Airflow containers to load project .env
+
+✅ Verified environment variables available inside Docker
+
+Verified:
+
+DB_SERVER
+DB_NAME
+DB_DRIVER
+DATA_PATH
+
+✅ Confirmed Airflow can access ETL configuration
+
+GitHub Security
+
+✅ Investigated GitGuardian security alert
+
+✅ Identified Airflow Fernet Key exposure source
+
+✅ Added Airflow-generated files to .gitignore
+
+✅ Removed Airflow logs and temporary files from repository
+
+Current Status
+
+✅ GitHub Repository Working
+
+✅ Docker Working
+
+✅ Airflow Working
+
+✅ DAG Working
+
+✅ ETL Script Launching From Airflow
+
+✅ Environment Variables Loading
+
+✅ Data Files Mounted
+
+🔄 SQL Server Connectivity Pending
+
+🔄 Airflow → ETL Full Integration Pending
+
+Current Project Status
+Data Engineering
+
+✅ Python ETL
+✅ Incremental File Processing
+✅ File Tracking
+✅ ETL Logging
+✅ Data Warehouse
+✅ Star Schema
+✅ Stored Procedures
+✅ SQL Views
+✅ Git Version Control
+
+DevOps / Orchestration
+
+✅ WSL2
+✅ Docker
+✅ Apache Airflow
+✅ GitHub Repository
+✅ Docker Volume Mounts
+✅ Containerized ETL Execution
+
+Remaining
+
+⬜ Fix Docker DATA_PATH handling
+
+⬜ Connect Airflow DAG to actual ETL execution
+
+⬜ Connect Docker container to SQL Server Express
+
+⬜ Test end-to-end automated ETL
+
+⬜ Build Power BI Dashboard
+
+⬜ Create Architecture Diagram
+
+⬜ Portfolio Documentation
+
+⬜ Final GitHub Repository Cleanup
 
 
 
