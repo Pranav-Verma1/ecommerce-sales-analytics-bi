@@ -1,5 +1,5 @@
 import pandas as pd
-
+import os
 from config import DATA_PATH
 from db_connection import get_connection
 from logger import write_log
@@ -11,7 +11,7 @@ def load_orders():
         update_file_tracking
     )
 
-    file_path = f"{DATA_PATH}\\fact_orders.csv"
+    file_path = os.path.join(DATA_PATH, "fact_orders.csv")
 
     if not file_changed(
         "fact_orders.csv",

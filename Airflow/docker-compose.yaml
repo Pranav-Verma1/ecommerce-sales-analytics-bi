@@ -77,6 +77,8 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
     - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
+    - D:/Projects/Sales Power BI Dashboard Creation/Python:/opt/airflow/project/Python
+    - D:/Projects/Sales Power BI Dashboard Creation/Data:/opt/airflow/project/Data
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on

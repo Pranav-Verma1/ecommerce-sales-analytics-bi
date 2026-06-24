@@ -1,5 +1,5 @@
 import pandas as pd
-
+import os
 from config import DATA_PATH
 from db_connection import get_connection
 from logger import write_log
@@ -12,7 +12,7 @@ def load_carriers():
         update_file_tracking
     )
 
-    file_path = f"{DATA_PATH}\\dim_carriers.csv"
+    file_path = os.path.join(DATA_PATH, "dim_carriers.csv")
 
     if not file_changed(
         "dim_carriers.csv",

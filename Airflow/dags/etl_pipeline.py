@@ -6,8 +6,8 @@ from airflow.operators.bash import BashOperator
 
 with DAG(
     dag_id="ecommerce_etl_pipeline",
-    start_date=datetime(2025, 1, 1),
-    schedule="@daily",
+    start_date=datetime(2026, 6, 24),
+    schedule=None,
     catchup=False,
     tags=["etl", "sqlserver", "powerbi"]
 ) as dag:
@@ -19,12 +19,7 @@ with DAG(
 
     run_etl = BashOperator(
         task_id="run_etl",
-        bash_command="echo Running Python ETL"
-    )
-
-    refresh_warehouse = BashOperator(
-        task_id="refresh_warehouse",
-        bash_command="echo Refreshing Warehouse"
+        bash_command="python /opt/airflow/project/Python/run_etl.py"
     )
 
     end = BashOperator(
@@ -32,4 +27,4 @@ with DAG(
         bash_command="echo ETL Finished"
     )
 
-    start >> run_etl >> refresh_warehouse >> end
+    start >> run_etl >> end
