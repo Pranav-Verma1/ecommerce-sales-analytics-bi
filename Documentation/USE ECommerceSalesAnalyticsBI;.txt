@@ -1,0 +1,50 @@
+USE ECommerceSalesAnalyticsBI;
+GO
+
+-- =========================
+-- STAGING: ORDERS
+-- =========================
+CREATE TABLE stg_orders (
+    Order_ID BIGINT,
+    Order_Date DATE,
+    Customer_ID INT,
+    Product_ID INT,
+    Carrier_ID VARCHAR(20),
+    Quantity INT,
+    Shipping_Cost DECIMAL(10,2),
+    Order_Status VARCHAR(50)
+);
+
+-- =========================
+-- STAGING: CUSTOMERS
+-- =========================
+CREATE TABLE stg_customers (
+    Customer_ID INT,
+    Customer_Name VARCHAR(255),
+    Gender VARCHAR(20),
+    City VARCHAR(255),
+    State VARCHAR(255)
+);
+
+-- =========================
+-- STAGING: PRODUCTS
+-- =========================
+CREATE TABLE stg_products (
+    Product_ID INT,
+    Product_Name VARCHAR(255),
+    Category VARCHAR(100),
+    Sub_Category VARCHAR(100),
+    Base_Cost DECIMAL(10,2),
+    Unit_Price DECIMAL(10,2)
+);
+
+-- =========================
+-- STAGING: CARRIERS
+-- =========================
+CREATE TABLE stg_carriers (
+    Carrier_ID VARCHAR(20),
+    Carrier_Name VARCHAR(100),
+    Ship_Mode VARCHAR(50),
+    Avg_Delivery_Days INT
+);
+GO

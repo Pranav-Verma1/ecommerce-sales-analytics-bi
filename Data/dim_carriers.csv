@@ -1,0 +1,5 @@
+Carrier_ID,Carrier_Name,Ship_Mode,Avg_Delivery_Days
+CR-01,BlueDart,Express,2
+CR-02,Delhivery,Standard,4
+CR-03,FedEx,Express,1
+CR-04,DHL Logistics,Standard,5

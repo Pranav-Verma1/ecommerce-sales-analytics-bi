@@ -1,0 +1,15 @@
+{"timestamp":"2026-06-23T17:12:39.637713","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2026-06-23T17:12:39.638528","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-06-23T17:12:39.673314Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2026-06-23T17:12:39.674071Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2026-06-23T17:12:39.674936Z","level":"info","event":"Current task name:end","chan":"stdout","logger":"task"}
+{"timestamp":"2026-06-23T17:12:39.675389Z","level":"info","event":"Dag name:ecommerce_etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2026-06-23T17:12:39.674159","level":"info","event":"Tmp dir root location: /tmp","logger":"airflow.task.hooks.airflow.providers.standard.hooks.subprocess.SubprocessHook"}
+{"timestamp":"2026-06-23T17:12:39.675967","level":"info","event":"Running command: ['/usr/bin/bash', '-c', 'echo ETL Finished']","logger":"airflow.task.hooks.airflow.providers.standard.hooks.subprocess.SubprocessHook"}
+{"timestamp":"2026-06-23T17:12:39.697325","level":"info","event":"Output:","logger":"airflow.task.hooks.airflow.providers.standard.hooks.subprocess.SubprocessHook"}
+{"timestamp":"2026-06-23T17:12:39.699601","level":"info","event":"ETL Finished","logger":"airflow.task.hooks.airflow.providers.standard.hooks.subprocess.SubprocessHook"}
+{"timestamp":"2026-06-23T17:12:39.699805","level":"info","event":"Command exited with return code 0","logger":"airflow.task.hooks.airflow.providers.standard.hooks.subprocess.SubprocessHook"}
+{"timestamp":"2026-06-23T17:12:39.700489","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019ef578-301f-7e1d-839c-647ed1f003e5'), task_id='end', dag_id='ecommerce_etl_pipeline', run_id='manual__2026-06-23T17:12:35.086062+00:00', try_number=1, map_index=-1, hostname='3fa884e48ce3', context_carrier={}, task=<Task(BashOperator): end>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2026, 6, 23, 17, 12, 39, 183243, tzinfo=datetime.timezone.utc), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None, log_url='http://localhost:8080/dags/ecommerce_etl_pipeline/runs/manual__2026-06-23T17%3A12%3A35.086062%2B00%3A00/tasks/end?try_number=1')","logger":"task"}
+{"timestamp":"2026-06-23T17:12:39.728804Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2026-06-23T17:12:39.729487Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2026-06-23T17:12:39.730007Z","level":"info","event":"Task operator:<Task(BashOperator): end>","chan":"stdout","logger":"task"}

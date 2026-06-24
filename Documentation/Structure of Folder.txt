@@ -1,0 +1,30 @@
+Structure of Folder
+
+D:\Projects\Sales Power BI Dashboard Creation\
+│
+├── Data\
+│   ├── fact_orders.csv
+│   ├── dim_customers.csv
+│   ├── dim_products.csv
+│   └── dim_carriers.csv
+│
+	Python/
+│
+	├── config.py
+	├── db_connection.py
+│
+	├── load_orders.py
+	├── load_customers.py
+	├── load_products.py
+	├── load_carriers.py
+│
+	├── run_etl.py
+│
+	└── logs/	
+
+│
+├── SQL\
+│
+├── PowerBI\
+│
+└── Documentation\

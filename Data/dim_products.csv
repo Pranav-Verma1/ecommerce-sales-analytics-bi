@@ -1,0 +1,1001 @@
+﻿Product_ID,Product_Name,Category,Sub_Category,Base_Cost,Unit_Price
+1,General Smartwatche,Electronics,Smartwatches,40.77,63.65
+2,Enough Hoodie,Apparel,Hoodies,166.31,253.08
+3,How Laptop,Electronics,Laptops,234.54,389.75
+4,Walk Dumbbell,Fitness,Dumbbells,259.49,370.57
+5,Produce Coffee Maker,Home & Kitchen,Coffee Makers,52.63,72.01
+6,Garden Jean,Apparel,Jeans,137.43,226.28
+7,Gun Toaster,Home & Kitchen,Toasters,183,295.86
+8,Skill Toaster,Home & Kitchen,Toasters,155.17,261.16
+9,Somebody Jean,Apparel,Jeans,54.5,80.52
+10,Because T-Shirt,Apparel,T-Shirts,179.43,254.51
+11,More Resistance Band,Fitness,Resistance Bands,92.75,152.56
+12,Big Treadmill,Fitness,Treadmills,241.23,351.46
+13,Act Laptop,Electronics,Laptops,221.47,363.76
+14,Answer Water Bottle,Fitness,Water Bottles,118.41,157.09
+15,Song Cookware Set,Home & Kitchen,Cookware Set,231.53,394.08
+16,Eye Coffee Maker,Home & Kitchen,Coffee Makers,283.53,409.48
+17,Wait Smartwatche,Electronics,Smartwatches,66.88,100.63
+18,Moment Coffee Maker,Home & Kitchen,Coffee Makers,107.09,184.44
+19,Determine Dumbbell,Fitness,Dumbbells,229.86,354.02
+20,Your Sneaker,Apparel,Sneakers,16.17,23.2
+21,Would Air Fryer,Home & Kitchen,Air Fryers,83.81,115.13
+22,Our Water Bottle,Fitness,Water Bottles,132.91,237.4
+23,Team Sneaker,Apparel,Sneakers,234.66,317.17
+24,Bring Smartwatche,Electronics,Smartwatches,282.78,451.72
+25,Civil Coffee Maker,Home & Kitchen,Coffee Makers,136.81,228.71
+26,Pull Dumbbell,Fitness,Dumbbells,210.66,275.04
+27,Itself Jean,Apparel,Jeans,184.77,284.11
+28,Science Air Fryer,Home & Kitchen,Air Fryers,25.24,39.76
+29,Including Coffee Maker,Home & Kitchen,Coffee Makers,46.06,62.63
+30,Nothing Air Fryer,Home & Kitchen,Air Fryers,143.49,207.9
+31,Meet Laptop,Electronics,Laptops,224.29,312.49
+32,Cover Water Bottle,Fitness,Water Bottles,150.96,208.11
+33,Standard Air Fryer,Home & Kitchen,Air Fryers,19.39,33.06
+34,Development Water Bottle,Fitness,Water Bottles,287.18,491
+35,Away Coffee Maker,Home & Kitchen,Coffee Makers,151.04,231.41
+36,Usually Headphone,Electronics,Headphones,182.11,308.38
+37,Truth Smartphone,Electronics,Smartphones,272.93,367.3
+38,Radio Keyboard,Electronics,Keyboards,119.12,156.07
+39,Pattern Dumbbell,Fitness,Dumbbells,162.4,285.97
+40,Standard Sneaker,Apparel,Sneakers,68.84,118.62
+41,Hospital Laptop,Electronics,Laptops,224.86,320.35
+42,Statement Hoodie,Apparel,Hoodies,150.14,230.76
+43,Think Keyboard,Electronics,Keyboards,115.3,154.02
+44,Reality Air Fryer,Home & Kitchen,Air Fryers,109.86,157.52
+45,Range Jean,Apparel,Jeans,40.26,62.66
+46,Dark Keyboard,Electronics,Keyboards,118.42,201.69
+47,Along Resistance Band,Fitness,Resistance Bands,9.44,16.09
+48,Herself Smartwatche,Electronics,Smartwatches,42.86,56.48
+49,Pm Dumbbell,Fitness,Dumbbells,62.61,102.93
+50,Accept Cookware Set,Home & Kitchen,Cookware Set,103.5,179.96
+51,Beat Resistance Band,Fitness,Resistance Bands,61.18,105.21
+52,Report Resistance Band,Fitness,Resistance Bands,82.71,122.1
+53,Bar T-Shirt,Apparel,T-Shirts,221.37,309.63
+54,Argue Yoga Mat,Fitness,Yoga Mats,18.37,26.99
+55,Tree Smartwatche,Electronics,Smartwatches,280.68,365.24
+56,Compare Treadmill,Fitness,Treadmills,273.14,384.26
+57,Lose Keyboard,Electronics,Keyboards,185.85,257.41
+58,Particularly Smartphone,Electronics,Smartphones,217.55,337.44
+59,Respond Jean,Apparel,Jeans,241.39,431.85
+60,Head Treadmill,Fitness,Treadmills,110.79,164.49
+61,Draw Air Fryer,Home & Kitchen,Air Fryers,192.38,264.19
+62,Yeah Keyboard,Electronics,Keyboards,31.44,50.48
+63,Candidate Water Bottle,Fitness,Water Bottles,270.95,444.97
+64,Culture T-Shirt,Apparel,T-Shirts,104.85,185.38
+65,Network Toaster,Home & Kitchen,Toasters,98.7,146.44
+66,Of Keyboard,Electronics,Keyboards,164.57,261.79
+67,Series Hoodie,Apparel,Hoodies,32.09,46.44
+68,Religious Resistance Band,Fitness,Resistance Bands,197.14,352.94
+69,Weight Sneaker,Apparel,Sneakers,199.82,338.88
+70,Look T-Shirt,Apparel,T-Shirts,141.76,238.73
+71,Start Treadmill,Fitness,Treadmills,101.23,152.5
+72,Nature Yoga Mat,Fitness,Yoga Mats,86.05,149.72
+73,Participant Treadmill,Fitness,Treadmills,180.33,323.5
+74,Trial Running Shoe,Apparel,Running Shoes,31.56,54.75
+75,Author Water Bottle,Fitness,Water Bottles,298.41,477.87
+76,Financial Dumbbell,Fitness,Dumbbells,104.31,184.33
+77,Player Cookware Set,Home & Kitchen,Cookware Set,228.52,373.18
+78,Cold Water Bottle,Fitness,Water Bottles,165.75,252
+79,Land Toaster,Home & Kitchen,Toasters,6.23,8.13
+80,Try Dumbbell,Fitness,Dumbbells,212.28,368.16
+81,Must Keyboard,Electronics,Keyboards,71.93,124.94
+82,Court Dumbbell,Fitness,Dumbbells,241.98,323.54
+83,Market Keyboard,Electronics,Keyboards,110.05,163.82
+84,Report Treadmill,Fitness,Treadmills,66.82,109.41
+85,Glass Coffee Maker,Home & Kitchen,Coffee Makers,279.03,390.82
+86,Concern Running Shoe,Apparel,Running Shoes,230.48,405.23
+87,Never Sneaker,Apparel,Sneakers,78.59,106.77
+88,Store Hoodie,Apparel,Hoodies,33.13,47.7
+89,Use Running Shoe,Apparel,Running Shoes,41.83,68.47
+90,Break Yoga Mat,Fitness,Yoga Mats,52.08,77.83
+91,Mind Smartphone,Electronics,Smartphones,99.32,132.09
+92,Office Water Bottle,Fitness,Water Bottles,289.34,379.61
+93,At T-Shirt,Apparel,T-Shirts,175.91,258.46
+94,Player Keyboard,Electronics,Keyboards,184.14,280.36
+95,War Water Bottle,Fitness,Water Bottles,156.88,279.91
+96,Similar Sneaker,Apparel,Sneakers,204.82,307.62
+97,Point Air Fryer,Home & Kitchen,Air Fryers,290.58,477.37
+98,Religious Toaster,Home & Kitchen,Toasters,46.1,80.39
+99,They Jean,Apparel,Jeans,196.57,312.78
+100,Coach Treadmill,Fitness,Treadmills,119.44,202.84
+101,Product Yoga Mat,Fitness,Yoga Mats,157.2,223.26
+102,Least Cookware Set,Home & Kitchen,Cookware Set,130.55,191.17
+103,Product Water Bottle,Fitness,Water Bottles,242.59,428.73
+104,Design Hoodie,Apparel,Hoodies,214.23,337.81
+105,Mr T-Shirt,Apparel,T-Shirts,97.96,174.45
+106,Chance Blender,Home & Kitchen,Blenders,192.53,279.5
+107,Coach Cookware Set,Home & Kitchen,Cookware Set,286.47,490.54
+108,Them Air Fryer,Home & Kitchen,Air Fryers,200.03,304.87
+109,Industry Yoga Mat,Fitness,Yoga Mats,89.23,143.22
+110,Idea Resistance Band,Fitness,Resistance Bands,266.71,364.66
+111,Moment Cookware Set,Home & Kitchen,Cookware Set,109.63,169.58
+112,Industry Keyboard,Electronics,Keyboards,196.2,330.28
+113,Nearly Headphone,Electronics,Headphones,290.4,418.88
+114,Section Sneaker,Apparel,Sneakers,55.13,97.75
+115,Home Treadmill,Fitness,Treadmills,79.78,110.77
+116,Wonder Water Bottle,Fitness,Water Bottles,193.92,329.62
+117,Every Toaster,Home & Kitchen,Toasters,194.2,329.93
+118,Story Sneaker,Apparel,Sneakers,207.96,321.34
+119,Moment Keyboard,Electronics,Keyboards,239.79,354.65
+120,Its Air Fryer,Home & Kitchen,Air Fryers,182.98,287.31
+121,None Smartphone,Electronics,Smartphones,193.63,262.35
+122,Father Sneaker,Apparel,Sneakers,88.63,135.37
+123,Represent Yoga Mat,Fitness,Yoga Mats,141.25,196.77
+124,Worry Air Fryer,Home & Kitchen,Air Fryers,211.21,369.47
+125,Administration Cookware Set,Home & Kitchen,Cookware Set,292.37,451.37
+126,Enjoy Treadmill,Fitness,Treadmills,221.82,353.95
+127,Argue Cookware Set,Home & Kitchen,Cookware Set,75.4,125.03
+128,Deal Jean,Apparel,Jeans,280.92,434.17
+129,Market Hoodie,Apparel,Hoodies,188.43,274.91
+130,Bank Water Bottle,Fitness,Water Bottles,12.12,17.02
+131,Memory Laptop,Electronics,Laptops,115.12,187.43
+132,Something Headphone,Electronics,Headphones,60.99,108.33
+133,Media Sneaker,Apparel,Sneakers,99.73,135.96
+134,List Running Shoe,Apparel,Running Shoes,185.54,298.25
+135,Talk Keyboard,Electronics,Keyboards,124.83,201.86
+136,Much Treadmill,Fitness,Treadmills,212.35,340.85
+137,Family Smartphone,Electronics,Smartphones,221.86,346.98
+138,Let Dumbbell,Fitness,Dumbbells,233.37,379.2
+139,Pull Resistance Band,Fitness,Resistance Bands,154.42,242.41
+140,Expert Blender,Home & Kitchen,Blenders,147.13,228.83
+141,Since Cookware Set,Home & Kitchen,Cookware Set,175.88,252.92
+142,This Coffee Maker,Home & Kitchen,Coffee Makers,261.68,427.56
+143,Green Toaster,Home & Kitchen,Toasters,84.84,140.34
+144,Figure Blender,Home & Kitchen,Blenders,167.31,257.92
+145,Later Resistance Band,Fitness,Resistance Bands,248.1,387.31
+146,Where Laptop,Electronics,Laptops,113.25,153.2
+147,All Headphone,Electronics,Headphones,160.79,259.5
+148,Financial Toaster,Home & Kitchen,Toasters,140.14,194.76
+149,Growth Smartwatche,Electronics,Smartwatches,220.37,371.42
+150,Return Laptop,Electronics,Laptops,236.95,374.23
+151,Risk Toaster,Home & Kitchen,Toasters,55.81,76.74
+152,Price Sneaker,Apparel,Sneakers,286.25,457.89
+153,Past Running Shoe,Apparel,Running Shoes,86.04,147.19
+154,Sure Blender,Home & Kitchen,Blenders,122.97,187.55
+155,Building Resistance Band,Fitness,Resistance Bands,203.08,328.71
+156,Trouble Keyboard,Electronics,Keyboards,65.37,117.51
+157,Any Yoga Mat,Fitness,Yoga Mats,231.11,324.42
+158,Deep T-Shirt,Apparel,T-Shirts,249.61,348.78
+159,Foreign Laptop,Electronics,Laptops,230.49,331.45
+160,Example Yoga Mat,Fitness,Yoga Mats,213.34,381.69
+161,Sort Blender,Home & Kitchen,Blenders,32.43,47.79
+162,Paper Smartphone,Electronics,Smartphones,37.89,51.62
+163,How Treadmill,Fitness,Treadmills,289.03,462.06
+164,Lot Running Shoe,Apparel,Running Shoes,156.2,281.11
+165,Dream Dumbbell,Fitness,Dumbbells,33.68,59.83
+166,Or Treadmill,Fitness,Treadmills,22.22,32.24
+167,First Coffee Maker,Home & Kitchen,Coffee Makers,185.94,300.38
+168,Guess Cookware Set,Home & Kitchen,Cookware Set,136.86,206.21
+169,Foot Cookware Set,Home & Kitchen,Cookware Set,226.81,342.26
+170,Health Water Bottle,Fitness,Water Bottles,207.54,353.47
+171,Key Blender,Home & Kitchen,Blenders,117.64,194.89
+172,Week Hoodie,Apparel,Hoodies,167.33,289.59
+173,Back Resistance Band,Fitness,Resistance Bands,119.03,191.48
+174,Ask Water Bottle,Fitness,Water Bottles,96.44,149.72
+175,Discover Toaster,Home & Kitchen,Toasters,109.52,155.47
+176,Mission Headphone,Electronics,Headphones,199.95,340.29
+177,Up Running Shoe,Apparel,Running Shoes,207.48,279.18
+178,Low T-Shirt,Apparel,T-Shirts,168.06,238.56
+179,Industry Coffee Maker,Home & Kitchen,Coffee Makers,284.27,447.35
+180,Up Cookware Set,Home & Kitchen,Cookware Set,118.69,187.08
+181,Late Laptop,Electronics,Laptops,251.82,439.4
+182,Artist Dumbbell,Fitness,Dumbbells,59.86,107.12
+183,Man Treadmill,Fitness,Treadmills,240.32,316.09
+184,Above Coffee Maker,Home & Kitchen,Coffee Makers,95.78,161.41
+185,Owner Air Fryer,Home & Kitchen,Air Fryers,179.61,237.88
+186,Little Keyboard,Electronics,Keyboards,96.91,129.18
+187,Within Sneaker,Apparel,Sneakers,167.97,264.31
+188,Until Running Shoe,Apparel,Running Shoes,129.44,218.98
+189,Compare Running Shoe,Apparel,Running Shoes,80.43,121.27
+190,Laugh T-Shirt,Apparel,T-Shirts,155.72,231.94
+191,Authority Smartwatche,Electronics,Smartwatches,20.08,31.31
+192,Decade Resistance Band,Fitness,Resistance Bands,54.17,94.8
+193,Pretty Blender,Home & Kitchen,Blenders,188.44,321.34
+194,Yard Air Fryer,Home & Kitchen,Air Fryers,234.25,336.36
+195,Behind Resistance Band,Fitness,Resistance Bands,134.88,183.37
+196,Power Keyboard,Electronics,Keyboards,268.85,406.15
+197,Write Headphone,Electronics,Headphones,137.57,243.45
+198,Today Smartphone,Electronics,Smartphones,211.3,298.06
+199,Own Water Bottle,Fitness,Water Bottles,85.31,111.75
+200,Particular Jean,Apparel,Jeans,181.02,244.1
+201,Difficult Water Bottle,Fitness,Water Bottles,44.98,62.51
+202,Weight Blender,Home & Kitchen,Blenders,267.85,437.5
+203,Pass Hoodie,Apparel,Hoodies,68.14,113.45
+204,Adult Cookware Set,Home & Kitchen,Cookware Set,23.37,33.56
+205,Area Yoga Mat,Fitness,Yoga Mats,292.11,492.15
+206,Politics Dumbbell,Fitness,Dumbbells,206.35,364.55
+207,White Headphone,Electronics,Headphones,221.84,380.96
+208,Effort Air Fryer,Home & Kitchen,Air Fryers,74.08,124.33
+209,Off Headphone,Electronics,Headphones,50.16,89.64
+210,Theory Sneaker,Apparel,Sneakers,72.86,104.7
+211,Serious Coffee Maker,Home & Kitchen,Coffee Makers,32.21,57.39
+212,Close Headphone,Electronics,Headphones,100.42,150.64
+213,Attorney Laptop,Electronics,Laptops,254,393.06
+214,Child Treadmill,Fitness,Treadmills,267,448.58
+215,Yard Sneaker,Apparel,Sneakers,178.61,248.66
+216,Body Toaster,Home & Kitchen,Toasters,163.41,245.21
+217,Foreign Sneaker,Apparel,Sneakers,146.54,219.72
+218,Size Dumbbell,Fitness,Dumbbells,126.61,209.33
+219,Exactly Jean,Apparel,Jeans,88.54,127.2
+220,Father Keyboard,Electronics,Keyboards,76.87,134.86
+221,Pm Smartwatche,Electronics,Smartwatches,211.16,292.53
+222,On Hoodie,Apparel,Hoodies,206.41,323.99
+223,Collection Blender,Home & Kitchen,Blenders,115.95,160.28
+224,Seek Yoga Mat,Fitness,Yoga Mats,98.43,147.95
+225,Subject Jean,Apparel,Jeans,141.77,243.17
+226,Forget Resistance Band,Fitness,Resistance Bands,185.38,303.47
+227,Piece Keyboard,Electronics,Keyboards,8.2,12.5
+228,Attention Resistance Band,Fitness,Resistance Bands,109.56,159.29
+229,Drive Sneaker,Apparel,Sneakers,50.69,78.93
+230,Yet Smartphone,Electronics,Smartphones,96.6,158.97
+231,Improve Laptop,Electronics,Laptops,113.74,190.91
+232,Front Laptop,Electronics,Laptops,104.79,153.32
+233,With Blender,Home & Kitchen,Blenders,99.6,161.16
+234,Teacher Air Fryer,Home & Kitchen,Air Fryers,14.56,19.89
+235,Almost Treadmill,Fitness,Treadmills,210.59,337.53
+236,Win Smartphone,Electronics,Smartphones,187.65,297.53
+237,Figure Jean,Apparel,Jeans,237.46,365.57
+238,Next Yoga Mat,Fitness,Yoga Mats,170.81,269.97
+239,Friend Smartwatche,Electronics,Smartwatches,106.76,166.18
+240,Hour Running Shoe,Apparel,Running Shoes,198.24,350.45
+241,Final Cookware Set,Home & Kitchen,Cookware Set,107.6,178.84
+242,Enjoy Laptop,Electronics,Laptops,275.54,370.52
+243,Feeling Keyboard,Electronics,Keyboards,124.3,195.59
+244,Gas Running Shoe,Apparel,Running Shoes,86.67,147.86
+245,Cause Smartphone,Electronics,Smartphones,277.73,467.45
+246,Join Running Shoe,Apparel,Running Shoes,200.75,287.16
+247,Against Yoga Mat,Fitness,Yoga Mats,226.89,386.02
+248,Final Running Shoe,Apparel,Running Shoes,30.32,44.97
+249,Modern Coffee Maker,Home & Kitchen,Coffee Makers,45.46,68.52
+250,Quite Sneaker,Apparel,Sneakers,120.77,199.6
+251,Establish Resistance Band,Fitness,Resistance Bands,70.71,100.31
+252,Goal Running Shoe,Apparel,Running Shoes,292.32,496.48
+253,Current T-Shirt,Apparel,T-Shirts,248.16,435.88
+254,Time Jean,Apparel,Jeans,51.42,74.56
+255,Public Sneaker,Apparel,Sneakers,109.39,193.7
+256,Include Blender,Home & Kitchen,Blenders,60.76,88.18
+257,Most Toaster,Home & Kitchen,Toasters,293.87,473.39
+258,Old Smartphone,Electronics,Smartphones,168.81,277.17
+259,Choose Smartwatche,Electronics,Smartwatches,108.94,155.01
+260,Home Running Shoe,Apparel,Running Shoes,75.92,102.15
+261,Send Sneaker,Apparel,Sneakers,111.84,169.71
+262,Other Air Fryer,Home & Kitchen,Air Fryers,88.76,132.75
+263,May Headphone,Electronics,Headphones,44.61,77.78
+264,From Running Shoe,Apparel,Running Shoes,297.62,500.53
+265,Sing Yoga Mat,Fitness,Yoga Mats,113.93,148.4
+266,Real Air Fryer,Home & Kitchen,Air Fryers,77.76,138.21
+267,Trouble Jean,Apparel,Jeans,30.75,46.21
+268,See Jean,Apparel,Jeans,128.38,183.22
+269,Notice Laptop,Electronics,Laptops,62.39,92.39
+270,They Running Shoe,Apparel,Running Shoes,61.9,104.26
+271,Important Jean,Apparel,Jeans,180.03,290.46
+272,Easy Laptop,Electronics,Laptops,167.75,223.12
+273,Rate Running Shoe,Apparel,Running Shoes,172.73,225.39
+274,Point Cookware Set,Home & Kitchen,Cookware Set,121.02,165.32
+275,Factor Toaster,Home & Kitchen,Toasters,146.9,212.06
+276,Article Headphone,Electronics,Headphones,259.24,356.17
+277,Act Smartphone,Electronics,Smartphones,256.66,450.75
+278,Game Treadmill,Fitness,Treadmills,169,262.32
+279,Choose Laptop,Electronics,Laptops,246.12,340.33
+280,Assume T-Shirt,Apparel,T-Shirts,296.29,513.85
+281,Who Water Bottle,Fitness,Water Bottles,147.62,211.21
+282,Fill Cookware Set,Home & Kitchen,Cookware Set,191.95,294.25
+283,Agency Running Shoe,Apparel,Running Shoes,7.69,10.63
+284,Concern Headphone,Electronics,Headphones,210.53,324.23
+285,Reflect Resistance Band,Fitness,Resistance Bands,261.46,417.45
+286,Yes Toaster,Home & Kitchen,Toasters,208.73,321.29
+287,Place Jean,Apparel,Jeans,100.39,157.65
+288,Brother Treadmill,Fitness,Treadmills,295.87,508.67
+289,Mother Dumbbell,Fitness,Dumbbells,146.57,247.86
+290,Phone Coffee Maker,Home & Kitchen,Coffee Makers,185.26,288.44
+291,Create Resistance Band,Fitness,Resistance Bands,120.39,191.7
+292,There T-Shirt,Apparel,T-Shirts,32.4,47.18
+293,Democrat Dumbbell,Fitness,Dumbbells,205.27,282.25
+294,Turn Water Bottle,Fitness,Water Bottles,214.96,374.73
+295,Point Smartwatche,Electronics,Smartwatches,266.92,368.16
+296,Member Keyboard,Electronics,Keyboards,27.06,42.45
+297,Deal Treadmill,Fitness,Treadmills,272.75,458.27
+298,Center Water Bottle,Fitness,Water Bottles,69.38,94.33
+299,Foreign T-Shirt,Apparel,T-Shirts,73.05,118.37
+300,Suggest Air Fryer,Home & Kitchen,Air Fryers,81.17,130.77
+301,Item Running Shoe,Apparel,Running Shoes,75.61,123.65
+302,Shoulder Smartwatche,Electronics,Smartwatches,135.76,240.48
+303,Think Blender,Home & Kitchen,Blenders,215.81,371.92
+304,Enter Jean,Apparel,Jeans,120.42,189.69
+305,Age Smartwatche,Electronics,Smartwatches,22.8,39.18
+306,System Sneaker,Apparel,Sneakers,65.97,93.47
+307,Democrat Running Shoe,Apparel,Running Shoes,124.52,180.63
+308,Peace Hoodie,Apparel,Hoodies,73.51,117.39
+309,Prove Sneaker,Apparel,Sneakers,46.78,81.17
+310,Into Treadmill,Fitness,Treadmills,251.58,354.43
+311,Range Yoga Mat,Fitness,Yoga Mats,33.78,57.87
+312,Decision Smartphone,Electronics,Smartphones,255.76,338.61
+313,Staff Coffee Maker,Home & Kitchen,Coffee Makers,219.46,318.29
+314,Choice Hoodie,Apparel,Hoodies,143.03,213.68
+315,Past Laptop,Electronics,Laptops,289.95,398.25
+316,Already Smartphone,Electronics,Smartphones,214.59,348.35
+317,Have T-Shirt,Apparel,T-Shirts,264.34,379.23
+318,Concern Dumbbell,Fitness,Dumbbells,269.48,438.13
+319,Manager Coffee Maker,Home & Kitchen,Coffee Makers,150.41,202.26
+320,Building Sneaker,Apparel,Sneakers,69.77,114.63
+321,Tonight Coffee Maker,Home & Kitchen,Coffee Makers,210.3,293.82
+322,Another Resistance Band,Fitness,Resistance Bands,131.35,235.87
+323,Right Running Shoe,Apparel,Running Shoes,242.63,327.17
+324,Life Coffee Maker,Home & Kitchen,Coffee Makers,101.91,148.8
+325,Oil Water Bottle,Fitness,Water Bottles,127.41,168.62
+326,And Smartphone,Electronics,Smartphones,38.29,62.6
+327,First Smartwatche,Electronics,Smartwatches,269.3,431.29
+328,Or Headphone,Electronics,Headphones,221.48,372.02
+329,Establish Headphone,Electronics,Headphones,60.7,84.05
+330,Despite Sneaker,Apparel,Sneakers,254.96,356.42
+331,Authority Dumbbell,Fitness,Dumbbells,125.37,165.08
+332,Statement Jean,Apparel,Jeans,133.28,227.83
+333,Field Cookware Set,Home & Kitchen,Cookware Set,9.66,13.49
+334,Hit Treadmill,Fitness,Treadmills,158.41,259.61
+335,Discover Yoga Mat,Fitness,Yoga Mats,88.37,122.16
+336,That Running Shoe,Apparel,Running Shoes,37.75,63.89
+337,Religious Air Fryer,Home & Kitchen,Air Fryers,58.97,82.09
+338,Office Smartphone,Electronics,Smartphones,28.52,49.65
+339,Finally Toaster,Home & Kitchen,Toasters,133.04,220.2
+340,Garden Sneaker,Apparel,Sneakers,101.04,148.29
+341,Each Smartwatche,Electronics,Smartwatches,279.96,381.3
+342,Future Headphone,Electronics,Headphones,252.09,388.47
+343,Really Smartphone,Electronics,Smartphones,93.6,135.89
+344,Soon Jean,Apparel,Jeans,165.49,227.12
+345,Television Toaster,Home & Kitchen,Toasters,110.01,147.6
+346,Focus Cookware Set,Home & Kitchen,Cookware Set,84.12,143.18
+347,My Hoodie,Apparel,Hoodies,97.94,159.37
+348,Box Coffee Maker,Home & Kitchen,Coffee Makers,110.29,181.79
+349,Responsibility Yoga Mat,Fitness,Yoga Mats,123.9,167.4
+350,Add Smartwatche,Electronics,Smartwatches,80.53,118.99
+351,Because Running Shoe,Apparel,Running Shoes,98.92,161.26
+352,Nearly Headphone,Electronics,Headphones,200.8,290.46
+353,Letter Toaster,Home & Kitchen,Toasters,76.77,125.25
+354,Issue Toaster,Home & Kitchen,Toasters,269.42,482.21
+355,American Smartwatche,Electronics,Smartwatches,142.77,228.72
+356,Responsibility Laptop,Electronics,Laptops,32.31,48.3
+357,Include Coffee Maker,Home & Kitchen,Coffee Makers,35.4,56.17
+358,Relate Treadmill,Fitness,Treadmills,78.03,111.27
+359,Game Toaster,Home & Kitchen,Toasters,145.15,208.95
+360,Reach Sneaker,Apparel,Sneakers,101.45,156.29
+361,Alone Smartphone,Electronics,Smartphones,62.75,96.3
+362,Thing Keyboard,Electronics,Keyboards,202.29,286.93
+363,Concern Coffee Maker,Home & Kitchen,Coffee Makers,139.78,227.4
+364,Own T-Shirt,Apparel,T-Shirts,182.63,303.27
+365,Do Hoodie,Apparel,Hoodies,80.79,142.39
+366,Behind Cookware Set,Home & Kitchen,Cookware Set,186.21,266.97
+367,Law Laptop,Electronics,Laptops,283.45,449.72
+368,Film Hoodie,Apparel,Hoodies,154.93,241.78
+369,Fly Coffee Maker,Home & Kitchen,Coffee Makers,207,304.88
+370,Someone Dumbbell,Fitness,Dumbbells,159.28,283.63
+371,Particular Water Bottle,Fitness,Water Bottles,296.74,432.03
+372,Garden Blender,Home & Kitchen,Blenders,237.14,345.76
+373,Join Cookware Set,Home & Kitchen,Cookware Set,44.3,71.44
+374,Purpose Water Bottle,Fitness,Water Bottles,186.81,312.07
+375,Seat Jean,Apparel,Jeans,173.32,235.28
+376,Out Sneaker,Apparel,Sneakers,219.9,392.35
+377,Success Air Fryer,Home & Kitchen,Air Fryers,50.12,79.73
+378,Film Toaster,Home & Kitchen,Toasters,81.65,142.29
+379,Both Jean,Apparel,Jeans,42.63,72.48
+380,Station Smartwatche,Electronics,Smartwatches,12.87,22.53
+381,Draw Laptop,Electronics,Laptops,293.37,457.92
+382,Environmental Headphone,Electronics,Headphones,11.69,20.43
+383,Everything T-Shirt,Apparel,T-Shirts,160.42,226.04
+384,Politics Keyboard,Electronics,Keyboards,155.94,203.31
+385,Most Smartwatche,Electronics,Smartwatches,238.45,318.6
+386,Member Cookware Set,Home & Kitchen,Cookware Set,285.2,396.26
+387,About Headphone,Electronics,Headphones,69.28,98.39
+388,Black Yoga Mat,Fitness,Yoga Mats,66.99,92.6
+389,Dog Keyboard,Electronics,Keyboards,206.37,277.39
+390,Audience Laptop,Electronics,Laptops,15.06,25.85
+391,Task Coffee Maker,Home & Kitchen,Coffee Makers,37.22,53.88
+392,High Sneaker,Apparel,Sneakers,200.68,318.62
+393,Common Dumbbell,Fitness,Dumbbells,130.16,222.07
+394,Continue Treadmill,Fitness,Treadmills,271.71,413.11
+395,Fear Running Shoe,Apparel,Running Shoes,59.68,85
+396,Me Keyboard,Electronics,Keyboards,122.07,179.07
+397,Available Water Bottle,Fitness,Water Bottles,224.18,350.16
+398,Thus Dumbbell,Fitness,Dumbbells,171.08,248.59
+399,Free Sneaker,Apparel,Sneakers,155.49,251.2
+400,Share Coffee Maker,Home & Kitchen,Coffee Makers,90.86,159.15
+401,Game Blender,Home & Kitchen,Blenders,195.84,340.93
+402,Blood Coffee Maker,Home & Kitchen,Coffee Makers,139.01,197.99
+403,Boy Keyboard,Electronics,Keyboards,176.1,300.34
+404,Nice Toaster,Home & Kitchen,Toasters,181.43,299.47
+405,Together Running Shoe,Apparel,Running Shoes,9.71,15.88
+406,Possible Smartphone,Electronics,Smartphones,179.49,282.45
+407,Professor Coffee Maker,Home & Kitchen,Coffee Makers,126.07,217.16
+408,Seem Coffee Maker,Home & Kitchen,Coffee Makers,54.37,95.78
+409,Reflect T-Shirt,Apparel,T-Shirts,247.99,436.75
+410,Theory Blender,Home & Kitchen,Blenders,30.97,44.09
+411,Education Air Fryer,Home & Kitchen,Air Fryers,222.73,357.22
+412,Newspaper Smartwatche,Electronics,Smartwatches,256.5,396.03
+413,Mr T-Shirt,Apparel,T-Shirts,65.21,88
+414,Health Sneaker,Apparel,Sneakers,229.67,384.58
+415,Positive Keyboard,Electronics,Keyboards,36.75,52.42
+416,Top Blender,Home & Kitchen,Blenders,90.14,126.82
+417,Toward Keyboard,Electronics,Keyboards,74.19,96.78
+418,Protect Headphone,Electronics,Headphones,117.76,196.82
+419,Drug Cookware Set,Home & Kitchen,Cookware Set,62.89,85.26
+420,This Blender,Home & Kitchen,Blenders,245.96,412.32
+421,Tend Jean,Apparel,Jeans,62.94,111.22
+422,Around Air Fryer,Home & Kitchen,Air Fryers,232.67,412.48
+423,Word Smartwatche,Electronics,Smartwatches,22.24,38.54
+424,Floor Toaster,Home & Kitchen,Toasters,265.42,398.64
+425,Front Dumbbell,Fitness,Dumbbells,181.4,294.83
+426,Score Sneaker,Apparel,Sneakers,37.63,55.59
+427,Mother Cookware Set,Home & Kitchen,Cookware Set,248.22,386.07
+428,See Yoga Mat,Fitness,Yoga Mats,208.66,333.68
+429,Improve Coffee Maker,Home & Kitchen,Coffee Makers,257.92,462.78
+430,Bank Headphone,Electronics,Headphones,273.59,448.82
+431,Page Running Shoe,Apparel,Running Shoes,42.46,63.47
+432,Message Toaster,Home & Kitchen,Toasters,50.96,87.66
+433,Particular Keyboard,Electronics,Keyboards,289.2,441.58
+434,Staff Yoga Mat,Fitness,Yoga Mats,70.75,103.22
+435,Present Keyboard,Electronics,Keyboards,31.34,52.75
+436,Forget Dumbbell,Fitness,Dumbbells,113.24,201.51
+437,Few Laptop,Electronics,Laptops,115.65,154.29
+438,Share Cookware Set,Home & Kitchen,Cookware Set,156.26,226.92
+439,Lay Hoodie,Apparel,Hoodies,135.23,234.45
+440,Food Laptop,Electronics,Laptops,172.2,285.64
+441,Vote Sneaker,Apparel,Sneakers,136.07,232.91
+442,Whom Running Shoe,Apparel,Running Shoes,84.35,136.8
+443,Here Cookware Set,Home & Kitchen,Cookware Set,26.59,43.5
+444,Realize Keyboard,Electronics,Keyboards,182.35,293.8
+445,Line Smartwatche,Electronics,Smartwatches,287.79,482.8
+446,Old Smartphone,Electronics,Smartphones,25.53,35.13
+447,Final Sneaker,Apparel,Sneakers,271.24,395.24
+448,Cell Toaster,Home & Kitchen,Toasters,62.48,100.63
+449,From Sneaker,Apparel,Sneakers,220.13,363.1
+450,Offer Sneaker,Apparel,Sneakers,85.25,116.07
+451,Nation Running Shoe,Apparel,Running Shoes,175.81,264.11
+452,Site Cookware Set,Home & Kitchen,Cookware Set,190.43,330.28
+453,During T-Shirt,Apparel,T-Shirts,169.38,264.5
+454,Station Sneaker,Apparel,Sneakers,261.44,409.21
+455,Without Headphone,Electronics,Headphones,114.08,148.91
+456,Painting Air Fryer,Home & Kitchen,Air Fryers,59.43,86.9
+457,Free Dumbbell,Fitness,Dumbbells,245.22,401.62
+458,Choice Jean,Apparel,Jeans,130.06,200
+459,Senior Dumbbell,Fitness,Dumbbells,175.53,276.01
+460,Kitchen Running Shoe,Apparel,Running Shoes,138.8,249.81
+461,Significant Keyboard,Electronics,Keyboards,38.19,67.52
+462,Hotel Hoodie,Apparel,Hoodies,215.91,337.79
+463,Miss Resistance Band,Fitness,Resistance Bands,211.29,340.57
+464,Low Sneaker,Apparel,Sneakers,5.26,9.08
+465,Respond Laptop,Electronics,Laptops,192.35,295.94
+466,Fine Running Shoe,Apparel,Running Shoes,223.53,381.99
+467,Lot Cookware Set,Home & Kitchen,Cookware Set,135.95,229.01
+468,Conference Treadmill,Fitness,Treadmills,257.63,427.22
+469,Talk Resistance Band,Fitness,Resistance Bands,281.1,426.78
+470,Concern Air Fryer,Home & Kitchen,Air Fryers,66.23,105.06
+471,Company Water Bottle,Fitness,Water Bottles,105.13,181.4
+472,Word Keyboard,Electronics,Keyboards,114.18,200.12
+473,Management Smartphone,Electronics,Smartphones,72.16,98
+474,Small Air Fryer,Home & Kitchen,Air Fryers,75.61,128.54
+475,Future Jean,Apparel,Jeans,281.1,433.3
+476,Peace T-Shirt,Apparel,T-Shirts,50.53,74.26
+477,Coach Water Bottle,Fitness,Water Bottles,294.74,488.32
+478,Perhaps Smartwatche,Electronics,Smartwatches,170.67,272.04
+479,Our Resistance Band,Fitness,Resistance Bands,173.07,243.74
+480,And Toaster,Home & Kitchen,Toasters,210.79,288.11
+481,Smile T-Shirt,Apparel,T-Shirts,218.32,284.49
+482,Carry Blender,Home & Kitchen,Blenders,122.04,185.34
+483,Necessary Jean,Apparel,Jeans,8.03,13.57
+484,Yourself Hoodie,Apparel,Hoodies,264.62,371.69
+485,Herself Treadmill,Fitness,Treadmills,177,234.57
+486,Space Treadmill,Fitness,Treadmills,34.81,52.86
+487,Culture Yoga Mat,Fitness,Yoga Mats,87.2,129.88
+488,Fight Air Fryer,Home & Kitchen,Air Fryers,218.69,291.8
+489,Open Toaster,Home & Kitchen,Toasters,152.63,272.13
+490,It Water Bottle,Fitness,Water Bottles,227.09,340.78
+491,Member T-Shirt,Apparel,T-Shirts,58.29,99.46
+492,Investment Dumbbell,Fitness,Dumbbells,58.45,80.74
+493,Police Keyboard,Electronics,Keyboards,125.75,188.38
+494,Cover Headphone,Electronics,Headphones,257.13,408.45
+495,Put Running Shoe,Apparel,Running Shoes,44.03,61.97
+496,Him Blender,Home & Kitchen,Blenders,42.4,69.67
+497,Behind Cookware Set,Home & Kitchen,Cookware Set,84.74,150.59
+498,All Blender,Home & Kitchen,Blenders,268.75,434.1
+499,Like Headphone,Electronics,Headphones,59.63,97.44
+500,True Coffee Maker,Home & Kitchen,Coffee Makers,267.03,386.75
+501,Economy Resistance Band,Fitness,Resistance Bands,185.63,254.2
+502,Trouble Running Shoe,Apparel,Running Shoes,178.15,236.42
+503,Style Resistance Band,Fitness,Resistance Bands,90.01,127.94
+504,Human Smartwatche,Electronics,Smartwatches,264.9,345.07
+505,Over Keyboard,Electronics,Keyboards,55.88,92.91
+506,Black Yoga Mat,Fitness,Yoga Mats,90.62,126.07
+507,Success Air Fryer,Home & Kitchen,Air Fryers,212.06,338.72
+508,First Jean,Apparel,Jeans,12.28,21.01
+509,Half Coffee Maker,Home & Kitchen,Coffee Makers,141.3,204.68
+510,Condition Coffee Maker,Home & Kitchen,Coffee Makers,132.73,180.79
+511,Meeting Jean,Apparel,Jeans,251.86,350.67
+512,Many Toaster,Home & Kitchen,Toasters,74.34,115.27
+513,Paper Cookware Set,Home & Kitchen,Cookware Set,240.16,373.53
+514,Forward Air Fryer,Home & Kitchen,Air Fryers,213.33,279.44
+515,Probably Smartphone,Electronics,Smartphones,256.16,416.55
+516,Floor Smartphone,Electronics,Smartphones,27.98,43.26
+517,Strategy Laptop,Electronics,Laptops,293.17,391.8
+518,Cultural Yoga Mat,Fitness,Yoga Mats,52.79,83.47
+519,Order Dumbbell,Fitness,Dumbbells,265.72,389.69
+520,Decide Hoodie,Apparel,Hoodies,17.49,24.96
+521,Bit Sneaker,Apparel,Sneakers,54.66,80.84
+522,Note Hoodie,Apparel,Hoodies,156.36,252.55
+523,So Laptop,Electronics,Laptops,79.97,136.54
+524,Benefit Sneaker,Apparel,Sneakers,81.66,120.45
+525,Cup Yoga Mat,Fitness,Yoga Mats,43.9,57.67
+526,Relate Toaster,Home & Kitchen,Toasters,83.57,112.41
+527,Place Jean,Apparel,Jeans,68.62,91.85
+528,Relationship Smartwatche,Electronics,Smartwatches,182.83,242.85
+529,Build Yoga Mat,Fitness,Yoga Mats,57.02,76.75
+530,Dinner Running Shoe,Apparel,Running Shoes,54.93,75.52
+531,Skill Sneaker,Apparel,Sneakers,70.39,102.48
+532,Play Blender,Home & Kitchen,Blenders,132.16,191.42
+533,Accept Blender,Home & Kitchen,Blenders,55.08,75.09
+534,Exist Smartwatche,Electronics,Smartwatches,16.83,26.4
+535,Next Smartphone,Electronics,Smartphones,259.41,439.48
+536,Spring Smartphone,Electronics,Smartphones,45.38,80.97
+537,Middle Laptop,Electronics,Laptops,209.69,287.83
+538,Soldier Air Fryer,Home & Kitchen,Air Fryers,140.49,196.88
+539,Listen Cookware Set,Home & Kitchen,Cookware Set,154.77,257.99
+540,Everyone Blender,Home & Kitchen,Blenders,202.76,343.58
+541,Threat Hoodie,Apparel,Hoodies,61.6,110.46
+542,Large Toaster,Home & Kitchen,Toasters,246.87,352.75
+543,Yeah Sneaker,Apparel,Sneakers,17.89,28.79
+544,Save Headphone,Electronics,Headphones,64.7,114.61
+545,Ok Yoga Mat,Fitness,Yoga Mats,21.7,35.43
+546,Her Jean,Apparel,Jeans,49.38,67.69
+547,Party Dumbbell,Fitness,Dumbbells,121.67,215.97
+548,Environmental Jean,Apparel,Jeans,252.62,435.04
+549,Risk Keyboard,Electronics,Keyboards,269.33,383.03
+550,Data Headphone,Electronics,Headphones,148.53,225.01
+551,Huge Dumbbell,Fitness,Dumbbells,108.08,181.19
+552,Begin Jean,Apparel,Jeans,173.84,296.66
+553,Relationship Coffee Maker,Home & Kitchen,Coffee Makers,184.96,314.95
+554,Always Coffee Maker,Home & Kitchen,Coffee Makers,242.52,341.42
+555,Now Dumbbell,Fitness,Dumbbells,163.68,221.2
+556,Fight Blender,Home & Kitchen,Blenders,16.47,22.62
+557,College Smartphone,Electronics,Smartphones,260.76,408.09
+558,Where Smartphone,Electronics,Smartphones,167.94,286.85
+559,Then Air Fryer,Home & Kitchen,Air Fryers,13.15,18.29
+560,Country Smartphone,Electronics,Smartphones,18.25,24.09
+561,Popular Air Fryer,Home & Kitchen,Air Fryers,254.43,416.72
+562,Budget Running Shoe,Apparel,Running Shoes,83.23,138.32
+563,Central Resistance Band,Fitness,Resistance Bands,5.69,9.25
+564,Wrong Water Bottle,Fitness,Water Bottles,120.7,198.1
+565,Station Blender,Home & Kitchen,Blenders,130.82,188.74
+566,Clearly Coffee Maker,Home & Kitchen,Coffee Makers,100.02,139.5
+567,Game Laptop,Electronics,Laptops,19.09,26.35
+568,Standard Running Shoe,Apparel,Running Shoes,157.56,260.97
+569,Address Water Bottle,Fitness,Water Bottles,97,166.4
+570,Into Air Fryer,Home & Kitchen,Air Fryers,41.87,62.86
+571,Baby Hoodie,Apparel,Hoodies,177.51,307.04
+572,Say Resistance Band,Fitness,Resistance Bands,148.58,239.41
+573,Mean Keyboard,Electronics,Keyboards,233.19,372.17
+574,Often Dumbbell,Fitness,Dumbbells,175.77,267.57
+575,Factor Smartwatche,Electronics,Smartwatches,186.52,288.35
+576,Maintain Smartphone,Electronics,Smartphones,205.64,359.28
+577,Financial Resistance Band,Fitness,Resistance Bands,107.12,154.25
+578,Policy Treadmill,Fitness,Treadmills,67.18,103.55
+579,Pressure Smartwatche,Electronics,Smartwatches,165.13,255.66
+580,Them Yoga Mat,Fitness,Yoga Mats,264.05,417.41
+581,Call Keyboard,Electronics,Keyboards,56.98,101.44
+582,Cultural Treadmill,Fitness,Treadmills,239.7,313.79
+583,Again Resistance Band,Fitness,Resistance Bands,233.39,397.72
+584,Stay Toaster,Home & Kitchen,Toasters,176.54,251.3
+585,Send Cookware Set,Home & Kitchen,Cookware Set,47.08,84.36
+586,Down Blender,Home & Kitchen,Blenders,196.43,255.9
+587,Success Jean,Apparel,Jeans,94.33,148.18
+588,Wonder Blender,Home & Kitchen,Blenders,130.44,229.78
+589,Far T-Shirt,Apparel,T-Shirts,94.29,158.53
+590,Few Running Shoe,Apparel,Running Shoes,206.28,341.79
+591,Three Keyboard,Electronics,Keyboards,94.47,150.72
+592,President Running Shoe,Apparel,Running Shoes,287.15,412.27
+593,Call Laptop,Electronics,Laptops,241.41,401.06
+594,Return Coffee Maker,Home & Kitchen,Coffee Makers,241.48,362.09
+595,Meeting Jean,Apparel,Jeans,182.63,319.96
+596,Help Keyboard,Electronics,Keyboards,12.22,17.4
+597,Society Headphone,Electronics,Headphones,22.41,32.61
+598,Trial Coffee Maker,Home & Kitchen,Coffee Makers,222.05,373.56
+599,Protect Hoodie,Apparel,Hoodies,88.5,129.03
+600,Budget Jean,Apparel,Jeans,257.84,348.1
+601,Building Smartwatche,Electronics,Smartwatches,280.43,440.24
+602,Itself Blender,Home & Kitchen,Blenders,81.09,143.28
+603,She Resistance Band,Fitness,Resistance Bands,134.27,180.78
+604,Last Toaster,Home & Kitchen,Toasters,214.78,281.99
+605,Foreign Sneaker,Apparel,Sneakers,145.54,199.23
+606,Laugh Toaster,Home & Kitchen,Toasters,155.75,266.21
+607,Improve Jean,Apparel,Jeans,5.74,8.88
+608,Far Cookware Set,Home & Kitchen,Cookware Set,43.51,69.55
+609,Military Headphone,Electronics,Headphones,28.25,41.95
+610,Career Keyboard,Electronics,Keyboards,19.88,35.08
+611,No T-Shirt,Apparel,T-Shirts,7.71,10.56
+612,One Toaster,Home & Kitchen,Toasters,248.32,442.05
+613,Education Toaster,Home & Kitchen,Toasters,298.77,398.55
+614,Station Resistance Band,Fitness,Resistance Bands,183.35,298.64
+615,Traditional Sneaker,Apparel,Sneakers,147.62,203.61
+616,As Toaster,Home & Kitchen,Toasters,226.08,344.47
+617,Administration Headphone,Electronics,Headphones,90.03,151.67
+618,Under Water Bottle,Fitness,Water Bottles,276.11,481.1
+619,Quality Blender,Home & Kitchen,Blenders,160.56,278.05
+620,In Dumbbell,Fitness,Dumbbells,36.96,49.74
+621,Land Laptop,Electronics,Laptops,293.46,510.87
+622,Next Cookware Set,Home & Kitchen,Cookware Set,82.87,117.36
+623,Maintain Air Fryer,Home & Kitchen,Air Fryers,188.82,299.93
+624,Teach Laptop,Electronics,Laptops,274.97,373.75
+625,Red Water Bottle,Fitness,Water Bottles,271.59,395.84
+626,South Cookware Set,Home & Kitchen,Cookware Set,34.61,55.77
+627,Report Keyboard,Electronics,Keyboards,130.17,169.99
+628,Decision Dumbbell,Fitness,Dumbbells,228.84,318.3
+629,Debate Blender,Home & Kitchen,Blenders,212,302.12
+630,Despite Toaster,Home & Kitchen,Toasters,253.19,387.12
+631,Difficult Dumbbell,Fitness,Dumbbells,282.63,490.88
+632,Which Coffee Maker,Home & Kitchen,Coffee Makers,118.12,206.65
+633,Hundred Hoodie,Apparel,Hoodies,32.63,55.98
+634,International Air Fryer,Home & Kitchen,Air Fryers,240.66,361.8
+635,Raise Running Shoe,Apparel,Running Shoes,161.7,279.48
+636,Successful Cookware Set,Home & Kitchen,Cookware Set,41.96,55.66
+637,Early Jean,Apparel,Jeans,80.02,121.35
+638,Season Headphone,Electronics,Headphones,191.18,309.44
+639,On Coffee Maker,Home & Kitchen,Coffee Makers,105.2,171.73
+640,Plant Toaster,Home & Kitchen,Toasters,256.47,452.58
+641,Back Air Fryer,Home & Kitchen,Air Fryers,69.08,111.37
+642,Car Smartphone,Electronics,Smartphones,240.04,346.13
+643,Modern Running Shoe,Apparel,Running Shoes,83.28,123.1
+644,Authority Coffee Maker,Home & Kitchen,Coffee Makers,14.57,23.14
+645,Attack Jean,Apparel,Jeans,203.84,327.45
+646,Company Cookware Set,Home & Kitchen,Cookware Set,26.05,36.75
+647,Travel Hoodie,Apparel,Hoodies,125.83,220.72
+648,Assume Cookware Set,Home & Kitchen,Cookware Set,11.42,19.87
+649,Main Headphone,Electronics,Headphones,144.69,249.45
+650,Something Resistance Band,Fitness,Resistance Bands,160.49,227.58
+651,Real Toaster,Home & Kitchen,Toasters,160.22,274.55
+652,Evidence Coffee Maker,Home & Kitchen,Coffee Makers,47.59,65.17
+653,Likely Hoodie,Apparel,Hoodies,275.87,415.81
+654,Put Keyboard,Electronics,Keyboards,28.98,39.43
+655,Work Toaster,Home & Kitchen,Toasters,86.21,115.56
+656,Beyond Coffee Maker,Home & Kitchen,Coffee Makers,21.56,30.55
+657,Result Sneaker,Apparel,Sneakers,142.5,194.57
+658,Realize Smartphone,Electronics,Smartphones,104.1,174.04
+659,Certain Dumbbell,Fitness,Dumbbells,161.56,222.2
+660,Usually T-Shirt,Apparel,T-Shirts,123.58,184.41
+661,Memory Water Bottle,Fitness,Water Bottles,221.21,395.58
+662,Training Yoga Mat,Fitness,Yoga Mats,14.41,24.31
+663,North Coffee Maker,Home & Kitchen,Coffee Makers,282.21,419.41
+664,Number Hoodie,Apparel,Hoodies,8.15,11.83
+665,Minute Coffee Maker,Home & Kitchen,Coffee Makers,141.63,235.19
+666,Memory Yoga Mat,Fitness,Yoga Mats,34.18,52.84
+667,Hair T-Shirt,Apparel,T-Shirts,10.96,18.62
+668,Produce Laptop,Electronics,Laptops,22.91,39.46
+669,With Treadmill,Fitness,Treadmills,189.47,299.88
+670,Movie Coffee Maker,Home & Kitchen,Coffee Makers,222.04,374.5
+671,Collection Keyboard,Electronics,Keyboards,201.22,301.55
+672,Mean Keyboard,Electronics,Keyboards,261.77,449.78
+673,Actually Water Bottle,Fitness,Water Bottles,237.56,331.39
+674,Study Running Shoe,Apparel,Running Shoes,50.82,72.49
+675,Blood Running Shoe,Apparel,Running Shoes,24.32,36.64
+676,Off Air Fryer,Home & Kitchen,Air Fryers,44.31,78.11
+677,Its Air Fryer,Home & Kitchen,Air Fryers,80.95,129.62
+678,Unit Keyboard,Electronics,Keyboards,136.2,209.93
+679,Simply Toaster,Home & Kitchen,Toasters,259.05,424.91
+680,Agree Sneaker,Apparel,Sneakers,116.63,206.09
+681,Record Air Fryer,Home & Kitchen,Air Fryers,105.88,180.34
+682,Investment Smartwatche,Electronics,Smartwatches,36.63,59.17
+683,Compare Keyboard,Electronics,Keyboards,292.54,384.06
+684,Ever Treadmill,Fitness,Treadmills,207.72,286.7
+685,Say Hoodie,Apparel,Hoodies,140.91,242.49
+686,But Air Fryer,Home & Kitchen,Air Fryers,153.59,232.51
+687,Move Hoodie,Apparel,Hoodies,26.24,38.47
+688,Many Treadmill,Fitness,Treadmills,94.69,139.7
+689,Treatment Laptop,Electronics,Laptops,148.99,226.06
+690,Reach Headphone,Electronics,Headphones,221.53,359.02
+691,Democrat Treadmill,Fitness,Treadmills,286.31,497.23
+692,Fall Coffee Maker,Home & Kitchen,Coffee Makers,131.86,196.49
+693,Have Hoodie,Apparel,Hoodies,24.69,32.78
+694,Author Dumbbell,Fitness,Dumbbells,220.8,379.98
+695,Nearly Resistance Band,Fitness,Resistance Bands,149.11,202.09
+696,Order Keyboard,Electronics,Keyboards,127.02,228.22
+697,Long Air Fryer,Home & Kitchen,Air Fryers,281.15,406.52
+698,Drive Sneaker,Apparel,Sneakers,116.77,189.06
+699,Pm Keyboard,Electronics,Keyboards,53.23,83
+700,Couple Coffee Maker,Home & Kitchen,Coffee Makers,80.2,123.43
+701,Approach Jean,Apparel,Jeans,248.98,432.17
+702,Blood Headphone,Electronics,Headphones,211.23,379.76
+703,Fire Laptop,Electronics,Laptops,24.13,41.3
+704,Interest Running Shoe,Apparel,Running Shoes,298.27,419.33
+705,Manage Sneaker,Apparel,Sneakers,83.2,125.45
+706,Agent Air Fryer,Home & Kitchen,Air Fryers,53.83,74.64
+707,Police Keyboard,Electronics,Keyboards,41.85,60.46
+708,Rock Coffee Maker,Home & Kitchen,Coffee Makers,36.08,53.35
+709,Media Cookware Set,Home & Kitchen,Cookware Set,176.07,269.65
+710,Without T-Shirt,Apparel,T-Shirts,298.6,461.33
+711,Try Headphone,Electronics,Headphones,107.09,166.36
+712,If Sneaker,Apparel,Sneakers,88.56,149.2
+713,Child Smartphone,Electronics,Smartphones,23.93,35.23
+714,Usually Air Fryer,Home & Kitchen,Air Fryers,252.65,367.13
+715,Art Smartwatche,Electronics,Smartwatches,158.93,226.93
+716,Bill Smartwatche,Electronics,Smartwatches,212.54,363.71
+717,Early Coffee Maker,Home & Kitchen,Coffee Makers,227.67,395.76
+718,Main Smartphone,Electronics,Smartphones,211.36,328.05
+719,Skill Hoodie,Apparel,Hoodies,172.26,288.79
+720,Including Dumbbell,Fitness,Dumbbells,46.33,75.76
+721,Reach T-Shirt,Apparel,T-Shirts,170.4,305.47
+722,Traditional Keyboard,Electronics,Keyboards,178.52,307.08
+723,Operation Resistance Band,Fitness,Resistance Bands,70.5,105.93
+724,Save Cookware Set,Home & Kitchen,Cookware Set,21.86,36.09
+725,Season Smartphone,Electronics,Smartphones,122.62,197.02
+726,At Treadmill,Fitness,Treadmills,134.33,214.88
+727,Operation Hoodie,Apparel,Hoodies,222.08,372.21
+728,Push Keyboard,Electronics,Keyboards,105.73,169.26
+729,Break Running Shoe,Apparel,Running Shoes,22.41,32.7
+730,Buy Running Shoe,Apparel,Running Shoes,153.11,273.45
+731,Sit Treadmill,Fitness,Treadmills,282.06,395.94
+732,Expect Water Bottle,Fitness,Water Bottles,269.63,484.28
+733,Check Coffee Maker,Home & Kitchen,Coffee Makers,196.34,310.57
+734,Pattern Headphone,Electronics,Headphones,263.82,409.13
+735,I Coffee Maker,Home & Kitchen,Coffee Makers,247.03,362.76
+736,Truth Coffee Maker,Home & Kitchen,Coffee Makers,64.04,108.76
+737,Tree Smartwatche,Electronics,Smartwatches,122.62,197.84
+738,Enjoy Smartphone,Electronics,Smartphones,9.28,12.39
+739,Resource Air Fryer,Home & Kitchen,Air Fryers,294.9,527.37
+740,Win Toaster,Home & Kitchen,Toasters,178.35,246.65
+741,Check Resistance Band,Fitness,Resistance Bands,81.67,112.9
+742,Catch Resistance Band,Fitness,Resistance Bands,91.7,142.56
+743,Cover Hoodie,Apparel,Hoodies,158.83,256.06
+744,Prove Running Shoe,Apparel,Running Shoes,19.43,27.68
+745,Center Coffee Maker,Home & Kitchen,Coffee Makers,75.63,117.83
+746,What Jean,Apparel,Jeans,93.9,139.16
+747,Guess Resistance Band,Fitness,Resistance Bands,104.4,164.72
+748,Forget Air Fryer,Home & Kitchen,Air Fryers,123.73,168.35
+749,Letter Blender,Home & Kitchen,Blenders,196.12,323.74
+750,On Water Bottle,Fitness,Water Bottles,101.14,139.78
+751,Several Jean,Apparel,Jeans,89.32,117.81
+752,Dark Jean,Apparel,Jeans,7.79,10.34
+753,Technology Smartphone,Electronics,Smartphones,87.73,143.06
+754,Bit Toaster,Home & Kitchen,Toasters,191.54,318.96
+755,Catch Cookware Set,Home & Kitchen,Cookware Set,245.46,365.48
+756,Eight Hoodie,Apparel,Hoodies,240.14,383.26
+757,Drop Laptop,Electronics,Laptops,115.33,179.67
+758,After Running Shoe,Apparel,Running Shoes,50.17,67.25
+759,Everything Keyboard,Electronics,Keyboards,108.62,162.16
+760,Candidate T-Shirt,Apparel,T-Shirts,42.36,59.28
+761,Program Treadmill,Fitness,Treadmills,58.25,89.37
+762,Section Resistance Band,Fitness,Resistance Bands,147.49,249.5
+763,Involve Running Shoe,Apparel,Running Shoes,30.97,48.66
+764,Mission Coffee Maker,Home & Kitchen,Coffee Makers,20.27,29.64
+765,Have Sneaker,Apparel,Sneakers,15.98,27.68
+766,Usually Jean,Apparel,Jeans,169.44,304.52
+767,Cultural Jean,Apparel,Jeans,224.47,372.13
+768,Future Smartwatche,Electronics,Smartwatches,255.26,333.15
+769,Although Toaster,Home & Kitchen,Toasters,98.97,167.85
+770,Size T-Shirt,Apparel,T-Shirts,177.74,318.92
+771,Whole Water Bottle,Fitness,Water Bottles,232.16,403.45
+772,Few Yoga Mat,Fitness,Yoga Mats,123.26,188.49
+773,Follow Smartphone,Electronics,Smartphones,190.24,301.95
+774,Kind Resistance Band,Fitness,Resistance Bands,235.4,327.91
+775,Yourself Laptop,Electronics,Laptops,167.31,288.01
+776,Exist Treadmill,Fitness,Treadmills,113.74,168.5
+777,It Yoga Mat,Fitness,Yoga Mats,22.04,34.5
+778,Change Cookware Set,Home & Kitchen,Cookware Set,244.76,337.2
+779,Where Sneaker,Apparel,Sneakers,141.61,241.85
+780,Value Headphone,Electronics,Headphones,95.54,132.42
+781,Next Water Bottle,Fitness,Water Bottles,224.46,371.68
+782,Thing Keyboard,Electronics,Keyboards,250.86,444.68
+783,Employee Smartphone,Electronics,Smartphones,108.14,165.87
+784,Few Air Fryer,Home & Kitchen,Air Fryers,152.65,201.13
+785,Democrat Smartwatche,Electronics,Smartwatches,215.2,288.93
+786,Near T-Shirt,Apparel,T-Shirts,32.77,43.43
+787,Keep Smartwatche,Electronics,Smartwatches,72.74,114.72
+788,I Sneaker,Apparel,Sneakers,72.01,108.55
+789,These Resistance Band,Fitness,Resistance Bands,159.76,231.79
+790,Consumer Sneaker,Apparel,Sneakers,131.45,197.45
+791,Current Smartwatche,Electronics,Smartwatches,208.11,300.98
+792,Family Dumbbell,Fitness,Dumbbells,221.65,305.98
+793,Can Air Fryer,Home & Kitchen,Air Fryers,64.08,92.34
+794,Anything Smartwatche,Electronics,Smartwatches,118.64,171.74
+795,Bed Keyboard,Electronics,Keyboards,175.37,258.19
+796,During Hoodie,Apparel,Hoodies,187.01,303.09
+797,Performance Running Shoe,Apparel,Running Shoes,272.28,401.88
+798,Management Resistance Band,Fitness,Resistance Bands,225.18,307.96
+799,Send Headphone,Electronics,Headphones,70.38,108.51
+800,Fight Water Bottle,Fitness,Water Bottles,113.46,198.55
+801,Skill Air Fryer,Home & Kitchen,Air Fryers,82.48,119.18
+802,Society Jean,Apparel,Jeans,108.04,147.09
+803,Room Jean,Apparel,Jeans,80.23,108.54
+804,Each Smartwatche,Electronics,Smartwatches,144.14,218.89
+805,Impact Hoodie,Apparel,Hoodies,215.6,295.82
+806,Study Dumbbell,Fitness,Dumbbells,205.69,319
+807,Minute Headphone,Electronics,Headphones,19.17,32.66
+808,Example Laptop,Electronics,Laptops,156.82,223.25
+809,Because Cookware Set,Home & Kitchen,Cookware Set,63.47,100.21
+810,Civil Coffee Maker,Home & Kitchen,Coffee Makers,81.04,136.8
+811,Mouth Laptop,Electronics,Laptops,96.57,135.13
+812,Affect Water Bottle,Fitness,Water Bottles,161.22,223.89
+813,Language Yoga Mat,Fitness,Yoga Mats,88.26,148.42
+814,Since Cookware Set,Home & Kitchen,Cookware Set,109.57,143.75
+815,Fund Cookware Set,Home & Kitchen,Cookware Set,136.95,186.2
+816,Tax Cookware Set,Home & Kitchen,Cookware Set,225.94,333.19
+817,Road Resistance Band,Fitness,Resistance Bands,27.15,37.08
+818,Technology Smartwatche,Electronics,Smartwatches,140.51,216.66
+819,Doctor Resistance Band,Fitness,Resistance Bands,71.67,105.91
+820,Art Treadmill,Fitness,Treadmills,145.83,248.8
+821,Loss Running Shoe,Apparel,Running Shoes,15.29,24.83
+822,Outside Hoodie,Apparel,Hoodies,255.71,451.16
+823,Wonder Yoga Mat,Fitness,Yoga Mats,154.75,227.32
+824,Share Yoga Mat,Fitness,Yoga Mats,244.62,322.88
+825,Different Resistance Band,Fitness,Resistance Bands,143.78,228.87
+826,Fear Blender,Home & Kitchen,Blenders,227.66,400.83
+827,Into Laptop,Electronics,Laptops,277.21,395.88
+828,Here Resistance Band,Fitness,Resistance Bands,112.81,183.46
+829,According Air Fryer,Home & Kitchen,Air Fryers,223.09,358.75
+830,Quickly Resistance Band,Fitness,Resistance Bands,265.42,358.17
+831,Role Water Bottle,Fitness,Water Bottles,49.38,69.9
+832,Bank Headphone,Electronics,Headphones,62.48,81.86
+833,Piece Cookware Set,Home & Kitchen,Cookware Set,270.97,380.88
+834,Family Resistance Band,Fitness,Resistance Bands,133.2,179.45
+835,Garden Running Shoe,Apparel,Running Shoes,138.84,233.68
+836,Claim Laptop,Electronics,Laptops,178.53,282.28
+837,Anyone Smartphone,Electronics,Smartphones,198.93,260.87
+838,Be Blender,Home & Kitchen,Blenders,86.88,148.43
+839,Turn Water Bottle,Fitness,Water Bottles,153.74,207.93
+840,But Blender,Home & Kitchen,Blenders,118.64,165.73
+841,From Coffee Maker,Home & Kitchen,Coffee Makers,172.89,300.58
+842,Prevent Running Shoe,Apparel,Running Shoes,8.17,10.88
+843,Positive Treadmill,Fitness,Treadmills,239.75,373.73
+844,Pressure Dumbbell,Fitness,Dumbbells,118.9,191.41
+845,Rock Sneaker,Apparel,Sneakers,203.51,362.61
+846,Direction Headphone,Electronics,Headphones,8.9,13.13
+847,Discuss Keyboard,Electronics,Keyboards,71.27,121.12
+848,Long Running Shoe,Apparel,Running Shoes,123.24,168.91
+849,Cold Sneaker,Apparel,Sneakers,143.07,212.75
+850,Foreign Keyboard,Electronics,Keyboards,42.27,67.53
+851,Foot Blender,Home & Kitchen,Blenders,15.91,25.59
+852,Mrs Resistance Band,Fitness,Resistance Bands,23.01,32.84
+853,May Treadmill,Fitness,Treadmills,181.52,298.31
+854,Somebody Cookware Set,Home & Kitchen,Cookware Set,176.62,231.74
+855,Him Cookware Set,Home & Kitchen,Cookware Set,294.36,389.86
+856,Individual Sneaker,Apparel,Sneakers,238.74,388.79
+857,Tree Blender,Home & Kitchen,Blenders,196.61,325.25
+858,Staff Headphone,Electronics,Headphones,251.7,447.06
+859,Action Hoodie,Apparel,Hoodies,249.34,399.4
+860,Suggest Blender,Home & Kitchen,Blenders,25.66,45.61
+861,Key Hoodie,Apparel,Hoodies,13.06,20.4
+862,Hotel Yoga Mat,Fitness,Yoga Mats,202.38,316.38
+863,Wife T-Shirt,Apparel,T-Shirts,299.2,503.18
+864,Detail Smartphone,Electronics,Smartphones,296.6,445.12
+865,Number Running Shoe,Apparel,Running Shoes,40.11,62.08
+866,Major Laptop,Electronics,Laptops,105.55,138.97
+867,Piece Dumbbell,Fitness,Dumbbells,33.77,50.76
+868,Close Cookware Set,Home & Kitchen,Cookware Set,72.92,97.53
+869,Trip Smartphone,Electronics,Smartphones,175.17,297.37
+870,Wait Cookware Set,Home & Kitchen,Cookware Set,98.52,153
+871,Need Blender,Home & Kitchen,Blenders,66.75,115.25
+872,Television Blender,Home & Kitchen,Blenders,141.09,212.4
+873,Contain Jean,Apparel,Jeans,246.37,343.6
+874,Upon Cookware Set,Home & Kitchen,Cookware Set,203.38,296.56
+875,Six Smartwatche,Electronics,Smartwatches,84.41,137.41
+876,Yourself Toaster,Home & Kitchen,Toasters,94.92,159.64
+877,Simple Keyboard,Electronics,Keyboards,298.37,481.3
+878,Employee T-Shirt,Apparel,T-Shirts,202.18,306.98
+879,Job T-Shirt,Apparel,T-Shirts,242.64,434.31
+880,Opportunity Blender,Home & Kitchen,Blenders,204.86,361.88
+881,Better Hoodie,Apparel,Hoodies,244.08,422.64
+882,Wall Smartwatche,Electronics,Smartwatches,243.02,361.38
+883,Popular Headphone,Electronics,Headphones,180.29,319.99
+884,Cold Dumbbell,Fitness,Dumbbells,99.02,156.63
+885,Seven Yoga Mat,Fitness,Yoga Mats,199.33,270.95
+886,Opportunity Treadmill,Fitness,Treadmills,250.56,353.41
+887,International T-Shirt,Apparel,T-Shirts,97.72,131.96
+888,Move Toaster,Home & Kitchen,Toasters,259.62,346.71
+889,American T-Shirt,Apparel,T-Shirts,80.39,137.04
+890,Several Coffee Maker,Home & Kitchen,Coffee Makers,139.24,236.07
+891,Board Blender,Home & Kitchen,Blenders,282.42,427.64
+892,Heavy Jean,Apparel,Jeans,168.05,243.96
+893,Lay Blender,Home & Kitchen,Blenders,234.09,418.59
+894,Still T-Shirt,Apparel,T-Shirts,125.2,181.55
+895,Record Resistance Band,Fitness,Resistance Bands,174.8,256.44
+896,Sport Resistance Band,Fitness,Resistance Bands,24.26,39.73
+897,Stuff Cookware Set,Home & Kitchen,Cookware Set,126.85,210.34
+898,Traditional Toaster,Home & Kitchen,Toasters,174.77,266.23
+899,Continue T-Shirt,Apparel,T-Shirts,18.25,25.45
+900,Image Air Fryer,Home & Kitchen,Air Fryers,163.79,234.57
+901,Church Treadmill,Fitness,Treadmills,74.35,120.59
+902,Section Treadmill,Fitness,Treadmills,252.91,392.42
+903,Worry Yoga Mat,Fitness,Yoga Mats,95.55,143.43
+904,Air Keyboard,Electronics,Keyboards,98.12,164.75
+905,Second Headphone,Electronics,Headphones,261.33,415.09
+906,Similar Smartwatche,Electronics,Smartwatches,117.72,154.01
+907,Per Coffee Maker,Home & Kitchen,Coffee Makers,112.29,187.85
+908,Candidate T-Shirt,Apparel,T-Shirts,217.57,311.14
+909,Very Toaster,Home & Kitchen,Toasters,277.27,388.78
+910,Peace Coffee Maker,Home & Kitchen,Coffee Makers,193.61,320.17
+911,Bar Dumbbell,Fitness,Dumbbells,73.14,120.22
+912,Continue Toaster,Home & Kitchen,Toasters,98.25,151.79
+913,Religious Hoodie,Apparel,Hoodies,146.83,209.25
+914,High Headphone,Electronics,Headphones,24.15,37.32
+915,Though Cookware Set,Home & Kitchen,Cookware Set,164.48,253.88
+916,Group Sneaker,Apparel,Sneakers,188.46,259.83
+917,Within T-Shirt,Apparel,T-Shirts,276.46,399.12
+918,Magazine Resistance Band,Fitness,Resistance Bands,295.27,507.3
+919,Paper Air Fryer,Home & Kitchen,Air Fryers,43.89,63.48
+920,Point Toaster,Home & Kitchen,Toasters,294.94,485.83
+921,Especially Headphone,Electronics,Headphones,214.89,291.35
+922,Entire Smartphone,Electronics,Smartphones,54.79,82.29
+923,Arrive Yoga Mat,Fitness,Yoga Mats,80.26,140.2
+924,Own Hoodie,Apparel,Hoodies,102.87,184.32
+925,Health Blender,Home & Kitchen,Blenders,126.67,212.74
+926,Bit Treadmill,Fitness,Treadmills,52.26,93.78
+927,Other Keyboard,Electronics,Keyboards,119.89,167.94
+928,West Treadmill,Fitness,Treadmills,261.99,420.46
+929,Than Cookware Set,Home & Kitchen,Cookware Set,274.37,483.48
+930,People Smartwatche,Electronics,Smartwatches,90.91,143.79
+931,Person Headphone,Electronics,Headphones,182.78,260.56
+932,Seek Resistance Band,Fitness,Resistance Bands,262.49,393.79
+933,Involve Cookware Set,Home & Kitchen,Cookware Set,17.45,26.56
+934,Dog T-Shirt,Apparel,T-Shirts,197.81,286.61
+935,Nice Treadmill,Fitness,Treadmills,5.39,9.23
+936,North Smartwatche,Electronics,Smartwatches,202.01,275.05
+937,Explain Water Bottle,Fitness,Water Bottles,111.11,161.73
+938,Interview Water Bottle,Fitness,Water Bottles,192,259.38
+939,Attention Air Fryer,Home & Kitchen,Air Fryers,145.78,230.79
+940,Lawyer Water Bottle,Fitness,Water Bottles,27.5,45.63
+941,Office Dumbbell,Fitness,Dumbbells,223.6,325.4
+942,List Yoga Mat,Fitness,Yoga Mats,121.52,178.96
+943,Rather Smartwatche,Electronics,Smartwatches,17.53,29.41
+944,Rise Cookware Set,Home & Kitchen,Cookware Set,235.61,339.23
+945,Like Smartphone,Electronics,Smartphones,248.73,420.26
+946,Former Smartphone,Electronics,Smartphones,37.13,59.42
+947,Spend Resistance Band,Fitness,Resistance Bands,278.74,457.56
+948,Yeah Keyboard,Electronics,Keyboards,29.91,41.3
+949,Us Smartwatche,Electronics,Smartwatches,160.9,243.09
+950,Develop T-Shirt,Apparel,T-Shirts,46.74,79.33
+951,Eat Hoodie,Apparel,Hoodies,259.2,362.95
+952,Learn Cookware Set,Home & Kitchen,Cookware Set,149.57,224.63
+953,Office Blender,Home & Kitchen,Blenders,176.23,255.73
+954,None Coffee Maker,Home & Kitchen,Coffee Makers,233.07,411.37
+955,Position Smartwatche,Electronics,Smartwatches,260.54,365.73
+956,Relationship T-Shirt,Apparel,T-Shirts,105.29,159.48
+957,Name Sneaker,Apparel,Sneakers,80.33,132.77
+958,Go Resistance Band,Fitness,Resistance Bands,182.31,272.29
+959,Visit Dumbbell,Fitness,Dumbbells,146.91,246.47
+960,Bag Treadmill,Fitness,Treadmills,248.16,401.14
+961,Market Air Fryer,Home & Kitchen,Air Fryers,215.64,367.94
+962,Why Laptop,Electronics,Laptops,34.64,50.72
+963,Worker Water Bottle,Fitness,Water Bottles,114.83,161.55
+964,Class Water Bottle,Fitness,Water Bottles,248.67,338.09
+965,List Blender,Home & Kitchen,Blenders,293.99,408.2
+966,Imagine Hoodie,Apparel,Hoodies,40.42,70.27
+967,Case Running Shoe,Apparel,Running Shoes,54.38,86.43
+968,Star Coffee Maker,Home & Kitchen,Coffee Makers,51.22,83
+969,Suddenly Headphone,Electronics,Headphones,207.14,324.16
+970,Newspaper Resistance Band,Fitness,Resistance Bands,154.42,215.59
+971,School Dumbbell,Fitness,Dumbbells,295.35,432.15
+972,Performance Running Shoe,Apparel,Running Shoes,115.85,188.15
+973,Action Cookware Set,Home & Kitchen,Cookware Set,157.04,218.09
+974,Meeting Jean,Apparel,Jeans,117.62,178.5
+975,Increase Jean,Apparel,Jeans,290.87,386.57
+976,Hair Coffee Maker,Home & Kitchen,Coffee Makers,169.96,234.39
+977,Big Blender,Home & Kitchen,Blenders,195.45,290.72
+978,Huge T-Shirt,Apparel,T-Shirts,87.99,117.88
+979,Rise Headphone,Electronics,Headphones,16.79,28.97
+980,Everything Water Bottle,Fitness,Water Bottles,254.76,417.17
+981,Child Laptop,Electronics,Laptops,51.54,88.79
+982,Grow Smartwatche,Electronics,Smartwatches,62.05,96.24
+983,Environmental Headphone,Electronics,Headphones,19.06,33.85
+984,Site Headphone,Electronics,Headphones,260.14,391.46
+985,Read Yoga Mat,Fitness,Yoga Mats,237.42,324.47
+986,Strategy Water Bottle,Fitness,Water Bottles,164,232.11
+987,No Cookware Set,Home & Kitchen,Cookware Set,154.02,249.59
+988,Plant Running Shoe,Apparel,Running Shoes,186.79,306.7
+989,Local Keyboard,Electronics,Keyboards,243.62,347.03
+990,Yourself Smartphone,Electronics,Smartphones,185.41,321.88
+991,Above Smartphone,Electronics,Smartphones,254.59,369.04
+992,Image Coffee Maker,Home & Kitchen,Coffee Makers,149.34,254.45
+993,By Coffee Maker,Home & Kitchen,Coffee Makers,251.39,351.2
+994,For Keyboard,Electronics,Keyboards,80.64,126.41
+995,Take Water Bottle,Fitness,Water Bottles,191,262.45
+996,Hold Air Fryer,Home & Kitchen,Air Fryers,168.38,253.36
+997,Draw Headphone,Electronics,Headphones,194.49,348.85
+998,Car Keyboard,Electronics,Keyboards,153.77,218.22
+999,According Water Bottle,Fitness,Water Bottles,28.59,41.26
+1000,Participant Keyboard,Electronics,Keyboards,224.64,312.76

@@ -1,0 +1,75 @@
+Daily Update 
+
+20 June 2026 
+✅ Installed and connected to SQL Server Express
+✅ Created the database
+✅ Designed the project architecture
+✅ Created the staging tables
+✅ Reviewed the source data structure
+✅ Decided on the ETL approach (Python → SQL Server)
+
+21 June 2026
+✅Installed Python 3.14.6
+✅Installed pip install pandas sqlalchemy pyodbc
+	These are the main libraries we'll need:
+	pandas → read CSV files
+	sqlalchemy → connect to SQL Server
+	pyodbc → SQL Server driver
+
+✅ SQL Server connected
+✅ Database created
+✅ Staging tables created
+✅ Python installed
+✅ ODBC Driver working
+✅ .env configured
+✅ test_connection.py successful
+
+made dim table and fact table and etl log
+made 3 dim sp and 1 fact sp, and bind then in sp_refresh_warehouse and this refresh sp will be used in python etl scritp
+ 
+
+22 June 2026
+✅made 4 views table that will be conneting to powerbi and made date dim table 
+✅made etl_file_tracking in sssms
+✅made refresh_warehous.py file 
+✅made logger.py
+✅file_tracker.py
+✅made requirement file
+✅made .env file, readme.md and .gitgnore file
+
+
+23 June 2026
+
+✅Virtualization Enabled
+✅ WSL2 Installed
+✅ Ubuntu Installed
+✅ Docker Desktop Installed
+✅ Docker Compose Available
+Docker Desktop Running ✅
+Docker Engine Running ✅
+WSL2 Working ✅
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

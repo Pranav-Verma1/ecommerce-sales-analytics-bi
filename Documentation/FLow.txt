@@ -1,0 +1,152 @@
+PROJECT: E-Commerce Sales Analytics BI Solution
+
+CSV Files
+    ↓
+Python ETL
+    ↓
+File Change Detection (etl_file_tracking)
+    ↓
+Staging Tables (SQL Server)
+    ↓
+Warehouse Refresh Stored Procedure
+    ↓
+Fact & Dimension Tables (Star Schema)
+    ↓
+SQL Reporting Views
+    ↓
+Power BI Dashboard
+    ↓
+Business Insights
+
+--------------------------------------------------
+
+Monitoring & Governance
+
+ETL Logging (etl_log)
+        ↑
+Python ETL
+
+Workflow Orchestration (Apache Airflow)
+        ↓
+File Detection → ETL → Warehouse Refresh
+        ↓
+Data Quality Checks
+
+--------------------------------------------------
+
+LAYER 1: SOURCE DATA
+- fact_orders.csv
+- dim_customers.csv
+- dim_products.csv
+- dim_carriers.csv
+
+Purpose:
+- Raw source files
+- Simulate business data feeds
+
+--------------------------------------------------
+
+LAYER 2: PYTHON ETL
+Responsibilities:
+- Read CSV files
+- Validate data
+- Handle errors
+- Load data into staging tables
+- Generate ETL logs
+
+Tools:
+- Python
+- Pandas
+- SQLAlchemy / pyodbc
+
+--------------------------------------------------
+
+LAYER 3: STAGING TABLES
+
+stg_orders
+stg_customers
+stg_products
+stg_carriers
+
+Purpose:
+- Store raw imported data
+- Separate source from business model
+
+--------------------------------------------------
+
+LAYER 4: WAREHOUSE REFRESH
+
+sp_refresh_warehouse
+
+sp_refresh_dim_customers
+sp_refresh_dim_products
+sp_refresh_dim_carriers
+sp_refresh_fact_sales
+
+Responsibilities:
+- Refresh dimensional model
+- Maintain referential integrity
+- Load warehouse tables from staging
+--------------------------------------------------
+
+LAYER 5: STAR SCHEMA
+
+FACT TABLE
+- fact_orders
+
+DIMENSION TABLES
+- dim_customers
+- dim_products
+- dim_carriers
+- dim_date (optional)
+
+Purpose:
+- Optimized for reporting
+- Better Power BI performance
+
+--------------------------------------------------
+
+LAYER 6: REPORTING VIEWS
+
+vw_sales_detail
+vw_daily_sales
+vw_monthly_sales
+vw_top_products
+Purpose:
+- Reporting layer
+- Simplify Power BI queries
+- Reusable business logic
+
+--------------------------------------------------
+
+LAYER 7: POWER BI
+
+Pages:
+1. Executive Overview
+2. Product Analysis
+3. Customer Analysis
+4. Data Quality / ETL Monitoring (optional)
+
+KPIs:
+- Total Revenue
+- Today's Revenue
+- Total Orders
+- Average Order Value
+- Monthly Growth %
+- Top Products
+
+--------------------------------------------------
+
+BONUS FEATURES
+
+- ETL Log Table
+- Incremental Load Logic
+- Data Quality Checks
+- Parameterized File Paths
+- Architecture Diagram
+
+--------------------------------------------------
+
+PORTFOLIO STORY
+
+Built an end-to-end Business Intelligence solution using Python, SQL Server, Stored Procedures, Views, and Power BI. Implemented ETL processes, dimensional modeling, and interactive dashboards for sales and revenue analysis.
