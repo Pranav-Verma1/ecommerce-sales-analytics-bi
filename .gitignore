@@ -18,3 +18,6 @@ Data/
 # Windows
 Thumbs.db
 Desktop.ini
+
+# Airflow config
+Airflow/config/airflow.cfg
