@@ -514,3 +514,19 @@ VALUES
 ('dim_customers.csv', NULL, NULL, 'NEW'),
 ('dim_products.csv', NULL, NULL, 'NEW'),
 ('dim_carriers.csv', NULL, NULL, 'NEW');
+
+USE master;
+GO
+
+CREATE LOGIN etl_user
+WITH PASSWORD = 'ETLPassword@123';
+GO
+
+USE ECommerceSalesAnalyticsBI;
+GO
+
+CREATE USER etl_user FOR LOGIN etl_user;
+GO
+
+ALTER ROLE db_owner ADD MEMBER etl_user;
+GO

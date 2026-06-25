@@ -225,15 +225,129 @@ DevOps / Orchestration
 ✅ Docker Volume Mounts
 ✅ Containerized ETL Execution
 
+25 June 2026 Progress
+Airflow → SQL Server Integration
+
+✅ Enabled SQL Server TCP/IP
+
+✅ Verified SQL Server listening on dynamic port
+
+✅ Tested network connectivity from Docker container
+
+✅ Configured SQL Authentication
+
+✅ Created dedicated ETL SQL login
+
+etl_user
+
+✅ Granted database access permissions
+
+✅ Updated project .env configuration
+
+Docker Configuration
+
+✅ Configured Airflow containers to access host SQL Server
+
+Updated:
+
+localhost\SQLEXPRESS
+
+to
+
+host.docker.internal,63646
+
+✅ Verified environment variables inside containers
+
+✅ Restarted Airflow environment
+
+✅ Confirmed healthy container status
+
+ETL Troubleshooting
+
+Resolved:
+
+✅ Missing DATA_PATH issues
+
+✅ Windows vs Linux path conflicts
+
+✅ Docker volume mount issues
+
+✅ Environment variable loading issues
+
+✅ SQL Server login timeout issues
+
+✅ Windows Authentication incompatibility inside Docker
+
+✅ Kerberos / SSPI authentication errors
+
+Final Validation
+
+Successfully executed:
+
+python /opt/airflow/project/Python/run_etl.py
+
+Results:
+
+✅ Loaded 1,000,000 Orders
+
+✅ Loaded 50,003 Customers
+
+✅ Loaded 1,000 Products
+
+✅ Loaded 4 Carriers
+
+✅ Warehouse Refresh Completed
+
+✅ ETL COMPLETED SUCCESSFULLY
+
+Current Project Status
+Data Engineering
+
+✅ SQL Server
+
+✅ Staging Layer
+
+✅ Star Schema
+
+✅ Stored Procedures
+
+✅ Reporting Views
+
+✅ Python ETL
+
+✅ Incremental Loading
+
+✅ File Tracking
+
+✅ ETL Logging
+
+✅ Warehouse Refresh Automation
+
+DevOps / Orchestration
+
+✅ WSL2
+
+✅ Ubuntu
+
+✅ Docker
+
+✅ Apache Airflow
+
+✅ GitHub
+
+✅ Volume Mounting
+
+✅ Container Networking
+
+✅ SQL Server Integration
+
 Remaining
 
-⬜ Fix Docker DATA_PATH handling
+⬜ Replace Airflow dummy DAG tasks with actual ETL execution
 
-⬜ Connect Airflow DAG to actual ETL execution
+⬜ Run ETL directly from Airflow UI
 
-⬜ Connect Docker container to SQL Server Express
-
-⬜ Test end-to-end automated ETL
+⬜ Verify scheduled execution
 
 ⬜ Build Power BI Dashboard
 
@@ -242,8 +356,6 @@ Remaining
 ⬜ Portfolio Documentation
 
 ⬜ Final GitHub Repository Cleanup
-
-
 
 
 
